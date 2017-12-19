@@ -1,0 +1,38 @@
+{
+  "name": "ota-meshi.github.io",
+  "private": true,
+  "version": "1.0.0",
+  "description": "http://ota-meshi.github.io/",
+  "main": "index.js",
+  "scripts": {
+    "watch": "vuepress dev --debug src",
+    "build": "vuepress build src",
+    "deploysetup": "npm run build && npm run deploysetup:clean && npm run deploysetup:copy",
+    "deploysetup:clean": "rimraf \"docs/assets\"",
+    "deploysetup:copy": "cpx \"src/\\.vuepress/dist/**\" \"docs\" -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ota-meshi/ota-meshi.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ota-meshi/ota-meshi.github.io/issues"
+  },
+  "homepage": "https://github.com/ota-meshi/ota-meshi.github.io#readme",
+  "devDependencies": {
+    "cpx": "^1.5.0",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^6.0.1",
+    "eslint-plugin-vue-scoped-css": "^0.2.1",
+    "prettier": "1.19.1",
+    "vuepress": "^1.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
