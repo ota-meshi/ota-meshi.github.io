@@ -173,6 +173,12 @@ Coding Standards for Enterprise.
 - [for SQL](https://future-architect.github.io/coding-standards/documents/forSQL/SQLコーディング規約（Oracle）.html)
   <page-info href="https://future-architect.github.io/coding-standards/documents/forSQL/SQLコーディング規約（Oracle）.html"></page-info>
 
+## Books
+
+### [WEB+DB PRESS Vol.120](https://gihyo.jp/magazine/wdpress/archive/2021/vol120)
+
+特集2 **最新Vue.js 3入門** ── 基本から新機能まで完全網羅
+
 ## Languages
 
 - Java ... 8 and 11+, Checkstyle, SpotBugs(FindBugs), Maven, Gradle, Groovy, Spring
