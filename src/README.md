@@ -177,6 +177,8 @@ Coding Standards for Enterprise.
 
 ### [WEB+DB PRESS Vol.120](https://gihyo.jp/magazine/wdpress/archive/2021/vol120)
 
+<img src="http://image.gihyo.co.jp/assets/images/cover/2021/9784297118112.jpg" height="300">
+
 特集2 **最新Vue.js 3入門** ── 基本から新機能まで完全網羅
 
 ## Languages
