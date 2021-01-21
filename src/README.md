@@ -93,6 +93,12 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](h
 <gh-info repo="ota-meshi/eslint-plugin-yml"></gh-info>
 [ESLint] plugin provides linting rules for [YAML].
 
+### [eslint-plugin-toml](https://ota-meshi.github.io/eslint-plugin-toml/) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-toml"></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-toml"></gh-info>
+[ESLint] plugin provides linting rules for [TOML].
+
 ### [eslint-plugin-lodash-template](https://ota-meshi.github.io/eslint-plugin-lodash-template/) <Badge text="Owner"/>
 
 <npm-info name="eslint-plugin-lodash-template"></npm-info>
@@ -127,7 +133,13 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](h
 
 <npm-info name="yaml-eslint-parser"></npm-info>
 <gh-info repo="ota-meshi/yaml-eslint-parser"></gh-info>
-A YAML parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
+A [YAML] parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
+
+### [toml-eslint-parser](https://github.com/ota-meshi/toml-eslint-parser) <Badge text="Owner"/>
+
+<npm-info name="toml-eslint-parser"></npm-info>
+<gh-info repo="ota-meshi/toml-eslint-parser"></gh-info>
+A [TOML] parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
 
 ### [Cheetah Grid](https://future-architect.github.io/cheetah-grid/) <Badge text="Owner"/>
 
@@ -217,3 +229,4 @@ Coding Standards for Enterprise.
 [json5]: https://json5.org/
 [vue i18n]: https://github.com/intlify/vue-i18n-next
 [yaml]: https://yaml.org/
+[TOML]: https://toml.io/
