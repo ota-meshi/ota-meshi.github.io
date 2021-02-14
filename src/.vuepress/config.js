@@ -31,6 +31,11 @@ module.exports = {
     nav: [{ text: "Profile", link: "/" }],
 
     sidebar: {
+      "/products/": [
+        "/products/eslint.html",
+        "/products/stylelint.html",
+        "/products/others.html"
+      ],
       "/": ["/"]
     }
   }

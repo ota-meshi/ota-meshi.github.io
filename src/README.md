@@ -44,134 +44,29 @@ My main job is a front-end developer. I love static code analysis tools.
 
 ## OSS Products
 
-### [eslint-plugin-vue](https://eslint.vuejs.org/) <Badge text="Maintainer" type="warning"/>
+### [ESLint Plugins and Parsers](./products/eslint.md)
 
-<npm-info name="eslint-plugin-vue"></npm-info>
-<gh-info repo="vuejs/eslint-plugin-vue"></gh-info>
-Official [ESLint] plugin for [Vue.js].
+I maintain many ESLint plugins.
 
-### [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) <Badge text="CoMaintainer" type="warning"/>
+[eslint-plugin-vue](https://eslint.vuejs.org/), [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/), [eslint-plugin-regexp](https://ota-meshi.github.io/eslint-plugin-regexp/), [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/) , [eslint-plugin-yml](https://ota-meshi.github.io/eslint-plugin-yml/), [eslint-plugin-toml](https://ota-meshi.github.io/eslint-plugin-toml/), [eslint-plugin-lodash-template](https://ota-meshi.github.io/eslint-plugin-lodash-template/), [eslint-plugin-vue-scoped-css](https://future-architect.github.io/eslint-plugin-vue-scoped-css/), [eslint-plugin-json-schema-validator](https://ota-meshi.github.io/eslint-plugin-json-schema-validator/) and more.
 
-<npm-info name="vue-eslint-parser"></npm-info>
-<gh-info repo="vuejs/vue-eslint-parser"></gh-info>
-The [ESLint] custom parser for `.vue` files.
+Please see [here](./products/eslint.md) for details.
 
-### [stylelint](https://stylelint.io/)
+### [Related to stylelint](./products/stylelint.md)
 
-<npm-info name="stylelint"></npm-info>
-<gh-info repo="stylelint/stylelint"></gh-info>
-A mighty, modern CSS linter.
+I maintain stylelint and some stylelint related products.
 
-### [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) <Badge text="Maintainer" type="warning"/>
+[stylelint](https://stylelint.io/), [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint), [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) and more.
 
-<gh-info repo="stylelint/vscode-stylelint"></gh-info>
-<vs-info extension-id="stylelint.vscode-stylelint"></vs-info>
+Please see [here](./products/stylelint.md) for details.
 
-A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](https://www.w3.org/Style/CSS/)/[SCSS](https://sass-lang.com/documentation/syntax)/[Less](http://lesscss.org/) with [stylelint]
+### [Others](./products/others.md)
 
-### [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/) <Badge text="Maintainer" type="warning"/>
+I also maintain other products.
 
-<npm-info name="@intlify/eslint-plugin-vue-i18n"></npm-info>
-<gh-info repo="intlify/eslint-plugin-vue-i18n"></gh-info>
-[ESLint] plugin of [Vue I18n].
+[Cheetah Grid](https://future-architect.github.io/cheetah-grid/), [Select box filter](https://chrome.google.com/webstore/detail/select-box-filter/ohgdgoglcbcfofphmmnkkdbpffklhjgh) and more.
 
-### [eslint-plugin-regexp](https://ota-meshi.github.io/eslint-plugin-regexp/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-regexp"></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-regexp"></gh-info>
-[ESLint] plugin for finding RegExp mistakes and RegExp style guide violations.
-
-### [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-jsonc"></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-jsonc"></gh-info>
-[ESLint] plugin for [JSON], [JSON with Comments] and [JSON5] files.
-
-### [eslint-plugin-yml](https://ota-meshi.github.io/eslint-plugin-yml/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-yml"></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-yml"></gh-info>
-[ESLint] plugin provides linting rules for [YAML].
-
-### [eslint-plugin-toml](https://ota-meshi.github.io/eslint-plugin-toml/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-toml"></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-toml"></gh-info>
-[ESLint] plugin provides linting rules for [TOML].
-
-### [eslint-plugin-lodash-template](https://ota-meshi.github.io/eslint-plugin-lodash-template/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-lodash-template"></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-lodash-template"></gh-info>
-[ESLint] plugin for [John Resig-style micro template], Lodash template, Underscore template and [EJS].
-
-### [eslint-plugin-vue-scoped-css](https://future-architect.github.io/eslint-plugin-vue-scoped-css/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-vue-scoped-css"></npm-info>
-<gh-info repo="future-architect/eslint-plugin-vue-scoped-css"></gh-info>
-[ESLint] plugin for [Scoped CSS] in [Vue.js].
-
-### [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) <Badge text="Owner"/>
-
-<npm-info name="stylelint-plugin-stylus"></npm-info>
-<gh-info repo="ota-meshi/stylelint-plugin-stylus"></gh-info>
-[stylelint] plugin for [Stylus].
-
-### [postcss-styl](https://github.com/ota-meshi/postcss-styl) <Badge text="Owner"/>
-
-<npm-info name="postcss-styl"></npm-info>
-<gh-info repo="ota-meshi/postcss-styl"></gh-info>
-[PostCSS] parser plugin for converting [Stylus] syntax to [PostCSS] AST.
-
-### [jsonc-eslint-parser](https://github.com/ota-meshi/jsonc-eslint-parser) <Badge text="Owner"/>
-
-<npm-info name="jsonc-eslint-parser"></npm-info>
-<gh-info repo="ota-meshi/jsonc-eslint-parser"></gh-info>
-[JSON], [JSONC] and [JSON5] parser for use with [ESLint] plugins.
-
-### [yaml-eslint-parser](https://github.com/ota-meshi/yaml-eslint-parser) <Badge text="Owner"/>
-
-<npm-info name="yaml-eslint-parser"></npm-info>
-<gh-info repo="ota-meshi/yaml-eslint-parser"></gh-info>
-A [YAML] parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
-
-### [toml-eslint-parser](https://github.com/ota-meshi/toml-eslint-parser) <Badge text="Owner"/>
-
-<npm-info name="toml-eslint-parser"></npm-info>
-<gh-info repo="ota-meshi/toml-eslint-parser"></gh-info>
-A [TOML] parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
-
-### [Cheetah Grid](https://future-architect.github.io/cheetah-grid/) <Badge text="Owner"/>
-
-<npm-info name="cheetah-grid"></npm-info>
-<gh-info repo="future-architect/cheetah-grid"></gh-info>
-The fastest open-source web component of data table. JavaScript library.
-
-### [vue-cheetah-grid](https://github.com/future-architect/cheetah-grid/tree/master/packages/vue-cheetah-grid) <Badge text="Owner"/>
-
-<npm-info name="vue-cheetah-grid"></npm-info>
-Cheetah Grid for [Vue.js].
-
-### [Select box filter](https://chrome.google.com/webstore/detail/select-box-filter/ohgdgoglcbcfofphmmnkkdbpffklhjgh) <Badge text="Owner"/>
-
-<ch-ex-info app-key="ohgdgoglcbcfofphmmnkkdbpffklhjgh"></ch-ex-info>
-A Chrome extension that filters select box options.
-
-### [uroboroSQL](https://future-architect.github.io/uroborosql-doc/)
-
-<gh-info repo="future-architect/uroborosql"></gh-info>
-Developer-oriented and SQL centric database access library. Java library.
-
-### [uroboroSQL formatter](https://github.com/future-architect/uroboroSQL-formatter) <Badge text="Owner"/>
-
-SQL formatter.
-
-- [Sublime Text3](https://packagecontrol.io/packages/uroboroSQL%20Formatter)
-  <sublime-info app-name="uroboroSQL Formatter" repo="future-architect/Sublime-uroboroSQL-formatter"></sublime-info>
-- [IntelliJ](https://plugins.jetbrains.com/plugin/9614-intellij-uroborosql-formatter)
-  <intellij-info app-key="9614-intellij-uroborosql-formatter"></intellij-info>
-- [Eclipse](https://marketplace.eclipse.org/content/eclipse-uroborosql-formatter)
-  <eclipse-info app-name="eclipse-uroborosql-formatter"></eclipse-info>
+Please see [here](./products/others.md) for details.
 
 ## Documents
 
