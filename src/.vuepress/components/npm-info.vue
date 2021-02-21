@@ -6,9 +6,7 @@
     </a>
     <a :href="`https://www.npmtrends.com/${name}`" target="_blank">
       <img
-        :src="
-          `https://img.shields.io/badge/dynamic/json.svg?label=downloads&colorB=green&suffix=/day&query=$.downloads&uri=https://api.npmjs.org//downloads/point/last-day/${name}&maxAge=3600`
-        "
+        :src="`https://img.shields.io/badge/dynamic/json.svg?label=downloads&colorB=green&suffix=/day&query=$.downloads&uri=https://api.npmjs.org//downloads/point/last-day/${name}&maxAge=3600`"
       />
       <img :src="`https://img.shields.io/npm/dw/${name}.svg?maxAge=3600`" />
       <img :src="`https://img.shields.io/npm/dm/${name}.svg?maxAge=3600`" />
@@ -20,14 +18,14 @@
 
 <script>
 export default {
-  name: "npm-info",
+  name: "NpmInfo",
   props: {
     name: {
       type: String,
-      required: true
-    }
-  }
-};
+      required: true,
+    },
+  },
+}
 </script>
 
 <style scoped>

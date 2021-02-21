@@ -1,19 +1,13 @@
 <template>
   <div class="ch-ex-info">
     <a
-      :href="
-        `https://chrome.google.com/webstore/detail/select-box-filter/${appKey}`
-      "
+      :href="`https://chrome.google.com/webstore/detail/select-box-filter/${appKey}`"
     >
       <img
-        :src="
-          `https://img.shields.io/chrome-web-store/v/${appKey}.svg?maxAge=3600`
-        "
+        :src="`https://img.shields.io/chrome-web-store/v/${appKey}.svg?maxAge=3600`"
       />
       <img
-        :src="
-          `https://img.shields.io/chrome-web-store/users/${appKey}.svg?maxAge=3600`
-        "
+        :src="`https://img.shields.io/chrome-web-store/users/${appKey}.svg?maxAge=3600`"
       />
       <!-- <img
         :src="
@@ -36,14 +30,14 @@
 
 <script>
 export default {
-  name: "ch-ex-info",
+  name: "ChExInfo",
   props: {
     appKey: {
       type: String,
-      required: true
-    }
-  }
-};
+      required: true,
+    },
+  },
+}
 </script>
 
 <style scoped>

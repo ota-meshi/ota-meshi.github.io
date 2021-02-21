@@ -3,37 +3,25 @@
     <a class="sub" :href="`https://packagecontrol.io/packages/${linkAppName}`">
       <div class="inline">
         <img
-          :src="
-            `https://img.shields.io/github/release/${repo}.svg?label=package%20control&maxAge=3600`
-          "
+          :src="`https://img.shields.io/github/release/${repo}.svg?label=package%20control&maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/packagecontrol/dd/${linkAppName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/packagecontrol/dd/${linkAppName}.svg?maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/packagecontrol/dw/${linkAppName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/packagecontrol/dw/${linkAppName}.svg?maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/packagecontrol/dm/${linkAppName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/packagecontrol/dm/${linkAppName}.svg?maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/packagecontrol/dt/${linkAppName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/packagecontrol/dt/${linkAppName}.svg?maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/badge/dynamic/json.svg?label=downloads&colorB=green&query=$.installs.total&uri=https%3A%2F%2Fpackagecontrol.io%2Fpackages%2F${linkAppName.replace(
-              /%/g,
-              '%25'
-            )}.json&maxAge=3600`
-          "
+          :src="`https://img.shields.io/badge/dynamic/json.svg?label=downloads&colorB=green&query=$.installs.total&uri=https%3A%2F%2Fpackagecontrol.io%2Fpackages%2F${linkAppName.replace(
+            /%/g,
+            '%25',
+          )}.json&maxAge=3600`"
         />
       </div>
     </a>
@@ -42,23 +30,23 @@
 
 <script>
 export default {
-  name: "sublime-info",
+  name: "SublimeInfo",
   props: {
     appName: {
       type: String,
-      required: true
+      required: true,
     },
     repo: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   computed: {
     linkAppName() {
-      return this.appName.replace(/ /g, "%20");
-    }
-  }
-};
+      return this.appName.replace(/ /g, "%20")
+    },
+  },
+}
 </script>
 
 <style scoped>

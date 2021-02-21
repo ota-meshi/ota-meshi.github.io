@@ -7,13 +7,13 @@ module.exports = {
   configureWebpack(_config, _isServer) {
     return {
       resolve: {
-        alias: {}
-      }
-    };
+        alias: {},
+      },
+    }
   },
 
   head: [
-    ["meta", { name: "theme-color", content: "#a10000" }]
+    ["meta", { name: "theme-color", content: "#a10000" }],
     // ["link", { rel: "icon", type: "image/png", href: "/logo.png" }]
   ],
   themeConfig: {
@@ -25,7 +25,7 @@ module.exports = {
     editLinks: true,
     lastUpdated: true,
     serviceWorker: {
-      updatePopup: true
+      updatePopup: true,
     },
 
     nav: [{ text: "Profile", link: "/" }],
@@ -34,9 +34,9 @@ module.exports = {
       "/products/": [
         "/products/eslint.html",
         "/products/stylelint.html",
-        "/products/others.html"
+        "/products/others.html",
       ],
-      "/": ["/"]
-    }
-  }
-};
+      "/": ["/"],
+    },
+  },
+}

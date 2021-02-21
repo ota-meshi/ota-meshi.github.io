@@ -1,30 +1,20 @@
 <template>
   <div class="vs-info">
     <a
-      :href="
-        `https://marketplace.visualstudio.com/items?itemName=${extensionId}`
-      "
+      :href="`https://marketplace.visualstudio.com/items?itemName=${extensionId}`"
       target="_blank"
     >
       <img
-        :src="
-          `https://img.shields.io/visual-studio-marketplace/v/${extensionId}`
-        "
+        :src="`https://img.shields.io/visual-studio-marketplace/v/${extensionId}`"
       />
       <img
-        :src="
-          `https://img.shields.io/visual-studio-marketplace/i/${extensionId}`
-        "
+        :src="`https://img.shields.io/visual-studio-marketplace/i/${extensionId}`"
       />
       <img
-        :src="
-          `https://img.shields.io/visual-studio-marketplace/stars/${extensionId}`
-        "
+        :src="`https://img.shields.io/visual-studio-marketplace/stars/${extensionId}`"
       />
       <img
-        :src="
-          `https://img.shields.io/visual-studio-marketplace/r/${extensionId}`
-        "
+        :src="`https://img.shields.io/visual-studio-marketplace/r/${extensionId}`"
       />
     </a>
   </div>
@@ -32,14 +22,14 @@
 
 <script>
 export default {
-  name: "vs-info",
+  name: "VsInfo",
   props: {
     extensionId: {
       type: String,
-      required: true
-    }
-  }
-};
+      required: true,
+    },
+  },
+}
 </script>
 
 <style scoped>

@@ -2,14 +2,10 @@
   <div class="intellij-info">
     <a :href="`https://plugins.jetbrains.com/plugin/${appKey}`">
       <img
-        :src="
-          `https://img.shields.io/jetbrains/plugin/v/${appKey}.svg?maxAge=3600`
-        "
+        :src="`https://img.shields.io/jetbrains/plugin/v/${appKey}.svg?maxAge=3600`"
       />
       <img
-        :src="
-          `https://img.shields.io/jetbrains/plugin/d/${appKey}svg?maxAge=3600`
-        "
+        :src="`https://img.shields.io/jetbrains/plugin/d/${appKey}svg?maxAge=3600`"
       />
     </a>
   </div>
@@ -17,14 +13,14 @@
 
 <script>
 export default {
-  name: "intellij-info",
+  name: "IntellijInfo",
   props: {
     appKey: {
       type: String,
-      required: true
-    }
-  }
-};
+      required: true,
+    },
+  },
+}
 </script>
 
 <style scoped>

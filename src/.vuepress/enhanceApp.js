@@ -1,4 +1,3 @@
-/* global window */
 export default () =>
   // {
   //     Vue, // the version of Vue being used in the VuePress app
@@ -9,7 +8,7 @@ export default () =>
   {
     if (typeof window !== "undefined") {
       if (typeof window.global === "undefined") {
-        window.global = {};
+        window.global = {}
       }
     }
-  };
+  }

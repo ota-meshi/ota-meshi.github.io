@@ -99,4 +99,4 @@ A [TOML] parser that produces output [compatible with ESLint](https://eslint.org
 [json5]: https://json5.org/
 [vue i18n]: https://github.com/intlify/vue-i18n-next
 [yaml]: https://yaml.org/
-[TOML]: https://toml.io/
+[toml]: https://toml.io/

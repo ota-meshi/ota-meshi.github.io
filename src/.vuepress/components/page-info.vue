@@ -8,7 +8,7 @@
       data-size="small"
       data-show-faces="true"
       data-share="true"
-      style="display: inline-block;"
+      style="display: inline-block"
     ></div>
     <a
       :href="hatena"
@@ -22,56 +22,33 @@
         alt="このエントリーをはてなブックマークに追加"
         width="20"
         height="20"
-        style="border: none;"
+        style="border: none"
       />
     </a>
   </div>
 </template>
 
 <script>
-import debounce from "lodash/debounce";
-
-const loadScript = debounce(function() {
-  (function(d, s, id) {
-    var js,
-      fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = "https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.11";
-    fjs.parentNode.insertBefore(js, fjs);
-  })(document, "script", "facebook-jssdk");
-
-  (function() {
-    const d = document;
-    const id = "hatena-buttons-script";
-    var js,
-      fjs = d.getElementsByTagName("script")[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement("script");
-    js.id = id;
-    js.src = "https://b.st-hatena.com/js/bookmark_button.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  })();
-}, 1000);
+import { loadFbButtonsScript, loadHatenaButtonsScript } from "./scripts/buttons"
 
 export default {
-  name: "page-info",
+  name: "PageInfo",
   props: {
     href: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   computed: {
     hatena() {
-      return this.href.replace("https://", "https://b.hatena.ne.jp/entry/s/");
-    }
+      return this.href.replace("https://", "https://b.hatena.ne.jp/entry/s/")
+    },
   },
   mounted() {
-    loadScript();
-  }
-};
+    loadFbButtonsScript()
+    loadHatenaButtonsScript()
+  },
+}
 </script>
 
 <style scoped>

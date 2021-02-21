@@ -86,7 +86,7 @@ Coding Standards for Enterprise.
 
 <img src="http://image.gihyo.co.jp/assets/images/cover/2021/9784297118112.jpg" height="300">
 
-特集2 **最新Vue.js 3入門** ── 基本から新機能まで完全網羅
+特集 2 **最新 Vue.js 3 入門** ── 基本から新機能まで完全網羅
 
 ## Languages
 
@@ -124,4 +124,4 @@ Coding Standards for Enterprise.
 [json5]: https://json5.org/
 [vue i18n]: https://github.com/intlify/vue-i18n-next
 [yaml]: https://yaml.org/
-[TOML]: https://toml.io/
+[toml]: https://toml.io/

@@ -3,29 +3,19 @@
     <a class="sub" :href="`https://marketplace.eclipse.org/content/${appName}`">
       <div class="inline">
         <img
-          :src="
-            `https://img.shields.io/eclipse-marketplace/v/${appName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/eclipse-marketplace/v/${appName}.svg?maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/eclipse-marketplace/last-update/${appName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/eclipse-marketplace/last-update/${appName}.svg?maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/eclipse-marketplace/favorites/${appName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/eclipse-marketplace/favorites/${appName}.svg?maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/eclipse-marketplace/dm/${appName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/eclipse-marketplace/dm/${appName}.svg?maxAge=3600`"
         />
         <img
-          :src="
-            `https://img.shields.io/eclipse-marketplace/dt/${appName}.svg?maxAge=3600`
-          "
+          :src="`https://img.shields.io/eclipse-marketplace/dt/${appName}.svg?maxAge=3600`"
         />
       </div>
     </a>
@@ -34,14 +24,14 @@
 
 <script>
 export default {
-  name: "eclipse-info",
+  name: "EclipseInfo",
   props: {
     appName: {
       type: String,
-      required: true
-    }
-  }
-};
+      required: true,
+    },
+  },
+}
 </script>
 
 <style scoped>

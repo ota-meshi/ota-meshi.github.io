@@ -16,38 +16,25 @@
 </template>
 
 <script>
-import debounce from "lodash/debounce";
-
-const loadScript = debounce(function() {
-  const d = document;
-  const id = "gh-buttons-script";
-  var js,
-    fjs = d.getElementsByTagName("script")[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement("script");
-  js.id = id;
-  js.src = "https://buttons.github.io/buttons.js";
-  fjs.parentNode.insertBefore(js, fjs);
-}, 1000);
-
+import { loadGhButtonsScript } from "./scripts/buttons"
 export default {
-  name: "gh-info",
+  name: "GhInfo",
   props: {
     repo: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   computed: {
     extraPin() {
-      const [, user, repo] = /(.*)\/(.*)/.exec(this.repo);
-      return `https://github-readme-stats.vercel.app/api/pin/?username=${user}&repo=${repo}&show_owner=true`;
-    }
+      const [, user, repo] = /(.*)\/(.*)/.exec(this.repo)
+      return `https://github-readme-stats.vercel.app/api/pin/?username=${user}&repo=${repo}&show_owner=true`
+    },
   },
   mounted() {
-    loadScript();
-  }
-};
+    loadGhButtonsScript()
+  },
+}
 </script>
 
 <style scoped>

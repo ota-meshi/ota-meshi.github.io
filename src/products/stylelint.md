@@ -3,7 +3,7 @@ sidebarDepth: 4
 pageClass: products
 ---
 
-# stylelint and Products Related to stylelint
+# stylelint and Related Products
 
 ## [stylelint](https://stylelint.io/)
 
@@ -46,4 +46,4 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](h
 [json5]: https://json5.org/
 [vue i18n]: https://github.com/intlify/vue-i18n-next
 [yaml]: https://yaml.org/
-[TOML]: https://toml.io/
+[toml]: https://toml.io/
