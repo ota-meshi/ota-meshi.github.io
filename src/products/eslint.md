@@ -65,6 +65,12 @@ The [ESLint] custom parser for `.vue` files.
 <gh-info repo="ota-meshi/eslint-plugin-json-schema-validator"></gh-info>
 [ESLint] plugin that validates data using JSON Schema Validator.
 
+## [@ota-meshi/eslint-plugin-svelte](https://ota-meshi.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
+
+<npm-info name="@ota-meshi/eslint-plugin-svelte"></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-svelte"></gh-info>
+[ESLint] plugin for [Svelte] using AST.
+
 ## [jsonc-eslint-parser](https://github.com/ota-meshi/jsonc-eslint-parser) <Badge text="Owner"/>
 
 <npm-info name="jsonc-eslint-parser"></npm-info>
@@ -83,6 +89,12 @@ A [YAML] parser that produces output [compatible with ESLint](https://eslint.org
 <gh-info repo="ota-meshi/toml-eslint-parser"></gh-info>
 A [TOML] parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
 
+## [svelte-eslint-parser](https://github.com/ota-meshi/svelte-eslint-parser) <Badge text="Owner"/>
+
+<npm-info name="svelte-eslint-parser"></npm-info>
+<gh-info repo="ota-meshi/svelte-eslint-parser"></gh-info>
+[Svelte] parser for [ESLint].
+
 [vue.js]: https://vuejs.org/
 [stylelint]: https://stylelint.io/
 [eslint]: https://eslint.org/
@@ -100,3 +112,4 @@ A [TOML] parser that produces output [compatible with ESLint](https://eslint.org
 [vue i18n]: https://github.com/intlify/vue-i18n-next
 [yaml]: https://yaml.org/
 [toml]: https://toml.io/
+[svelte]: https://svelte.dev/

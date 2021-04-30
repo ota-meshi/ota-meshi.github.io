@@ -48,7 +48,7 @@ My main job is a front-end developer. I love static code analysis tools.
 
 I maintain many ESLint plugins.
 
-[eslint-plugin-vue](https://eslint.vuejs.org/), [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/), [eslint-plugin-regexp](https://ota-meshi.github.io/eslint-plugin-regexp/), [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/) , [eslint-plugin-yml](https://ota-meshi.github.io/eslint-plugin-yml/), [eslint-plugin-toml](https://ota-meshi.github.io/eslint-plugin-toml/), [eslint-plugin-lodash-template](https://ota-meshi.github.io/eslint-plugin-lodash-template/), [eslint-plugin-vue-scoped-css](https://future-architect.github.io/eslint-plugin-vue-scoped-css/), [eslint-plugin-json-schema-validator](https://ota-meshi.github.io/eslint-plugin-json-schema-validator/) and more.
+[eslint-plugin-vue](https://eslint.vuejs.org/), [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/), [eslint-plugin-regexp](https://ota-meshi.github.io/eslint-plugin-regexp/), [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/) , [eslint-plugin-yml](https://ota-meshi.github.io/eslint-plugin-yml/), [eslint-plugin-toml](https://ota-meshi.github.io/eslint-plugin-toml/), [eslint-plugin-lodash-template](https://ota-meshi.github.io/eslint-plugin-lodash-template/), [eslint-plugin-vue-scoped-css](https://future-architect.github.io/eslint-plugin-vue-scoped-css/), [eslint-plugin-json-schema-validator](https://ota-meshi.github.io/eslint-plugin-json-schema-validator/),[@ota-meshi/eslint-plugin-svelte](https://ota-meshi.github.io/eslint-plugin-svelte/) and more.
 
 Please see [here](./products/eslint.md) for details.
 
