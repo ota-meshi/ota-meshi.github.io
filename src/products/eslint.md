@@ -65,6 +65,12 @@ The [ESLint] custom parser for `.vue` files.
 <gh-info repo="ota-meshi/eslint-plugin-json-schema-validator"></gh-info>
 [ESLint] plugin that validates data using JSON Schema Validator.
 
+## [@intlify/eslint-plugin-svelte](https://github.com/intlify/eslint-plugin-svelte) <Badge text="Owner"/>
+
+<npm-info name="@intlify/eslint-plugin-svelte"></npm-info>
+<gh-info repo="intlify/eslint-plugin-svelte"></gh-info>
+[ESLint] plugin for internationalization with [Svelte].
+
 ## [@ota-meshi/eslint-plugin-svelte](https://ota-meshi.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
 
 <npm-info name="@ota-meshi/eslint-plugin-svelte"></npm-info>
