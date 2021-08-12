@@ -77,6 +77,12 @@ The [ESLint] custom parser for `.vue` files.
 <gh-info repo="ota-meshi/eslint-plugin-svelte"></gh-info>
 [ESLint] plugin for [Svelte] using AST.
 
+## [eslint-plugin-node-dependencies](https://ota-meshi.github.io/eslint-plugin-node-dependencies/) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-node-dependencies"></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-node-dependencies"></gh-info>
+[ESLint] plugin to check Node.js dependencies.
+
 ## [jsonc-eslint-parser](https://github.com/ota-meshi/jsonc-eslint-parser) <Badge text="Owner"/>
 
 <npm-info name="jsonc-eslint-parser"></npm-info>
