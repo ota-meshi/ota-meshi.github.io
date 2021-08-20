@@ -9,6 +9,11 @@
       target="_blank"
       >Star</a
     >
+    <a :href="`https://github.com/${repo}/releases`" target="_blank">
+      <img
+        :src="`https://img.shields.io/badge/dynamic/json?label=latest release&query=$.created_at&url=https://api.github.com/repos/${repo}/releases/latest?maxAge=3600`"
+      />
+    </a>
     <!-- <a :href="`https://github.com/${repo}`" target="_blank">
       <img :src="extraPin" />
     </a> -->
