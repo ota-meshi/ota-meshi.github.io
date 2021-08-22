@@ -74,11 +74,20 @@ export default {
       if (!at) {
         return null
       }
-      const diff = (Date.now() - at.getTime()) / 86400000
-      if (diff < 1) {
-        return `${at.getHours()}:${at.getMinutes()}`
+      let diff = (Date.now() - at.getTime()) / 1000
+      if (diff < 60) {
+        return `${Math.floor(diff)} seconds ago.`
       }
-      if (1 <= diff && diff <= 30) {
+      diff /= 60
+      if (diff < 60) {
+        return `${Math.floor(diff)} minutes ago.`
+      }
+      diff /= 60
+      if (diff < 24) {
+        return `${Math.floor(diff)} hours ago.`
+      }
+      diff /= 24
+      if (diff <= 30) {
         return `${Math.floor(diff)} days ago`
       }
       return `${at.getFullYear()}-${at.getMonth() + 1}-${at.getDate()}`
