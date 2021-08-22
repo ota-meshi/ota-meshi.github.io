@@ -76,15 +76,15 @@ export default {
       }
       let diff = (Date.now() - at.getTime()) / 1000
       if (diff < 60) {
-        return `${Math.floor(diff)} seconds ago.`
+        return `${Math.floor(diff)} seconds ago`
       }
       diff /= 60
       if (diff < 60) {
-        return `${Math.floor(diff)} minutes ago.`
+        return `${Math.floor(diff)} minutes ago`
       }
       diff /= 60
       if (diff < 24) {
-        return `${Math.floor(diff)} hours ago.`
+        return `${Math.floor(diff)} hours ago`
       }
       diff /= 24
       if (diff <= 30) {
