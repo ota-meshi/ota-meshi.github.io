@@ -30,6 +30,9 @@
 
 <script>
 import { loadGhButtonsScript } from "./scripts/buttons"
+
+const cache = {}
+
 export default {
   name: "GhInfo",
   props: {
@@ -53,9 +56,13 @@ export default {
       if (typeof fetch === "undefined") {
         return null
       }
-      return fetch(
-        `https://api.github.com/repos/${user}/${repo}/releases/latest`,
-        { mode: "cors" },
+      const url = `https://api.github.com/repos/${user}/${repo}/releases/latest`
+      return (
+        cache[url] ||
+        (cache[url] = fetch(
+          `https://api.github.com/repos/${user}/${repo}/releases/latest`,
+          { mode: "cors" },
+        ))
       )
     },
     latestAt() {
