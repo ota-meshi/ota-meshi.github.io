@@ -47,6 +47,9 @@ export default {
     },
     latestReq() {
       const [, user, repo] = /(.*)\/(.*)/.exec(this.repo)
+      if (typeof fetch === "undefined") {
+        return null
+      }
       return fetch(
         `https://api.github.com/repos/${user}/${repo}/releases/latest`,
         { mode: "cors" },
