@@ -12,7 +12,10 @@
     <a :href="`https://github.com/${repo}/releases`" target="_blank">
       <img
         v-if="latestAtLabel"
-        :src="`https://img.shields.io/badge/latest%20release-${latestAtLabel}-green`"
+        :src="`https://img.shields.io/badge/latest%20release-${latestAtLabel.replace(
+          /-/g,
+          '--',
+        )}-green`"
       />
       <img
         v-else
@@ -64,7 +67,7 @@ export default {
       if (!at) {
         return null
       }
-      const diff = Date.now() - at.getTime() / 86400000
+      const diff = (Date.now() - at.getTime()) / 86400000
       if (diff < 1) {
         return `${at.getHours()}:${at.getMinutes()}`
       }
