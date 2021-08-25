@@ -9,7 +9,11 @@
       target="_blank"
       >Star</a
     >
-    <a :href="`https://github.com/${repo}/releases`" target="_blank">
+    <a
+      v-if="releases"
+      :href="`https://github.com/${repo}/releases`"
+      target="_blank"
+    >
       <img
         v-if="latestAtLabel"
         :src="`https://img.shields.io/badge/latest%20release-${latestAtLabel.replace(
@@ -39,6 +43,10 @@ export default {
     repo: {
       type: String,
       required: true,
+    },
+    releases: {
+      type: Boolean,
+      default: true,
     },
   },
   data() {

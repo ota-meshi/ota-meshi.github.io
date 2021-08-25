@@ -7,7 +7,7 @@ pageClass: products
 
 ## [stylelint](https://stylelint.io/)
 
-<npm-info name="stylelint"></npm-info>
+<npm-info name="stylelint" node ></npm-info>
 <gh-info repo="stylelint/stylelint"></gh-info>
 A mighty, modern CSS linter.
 
@@ -20,13 +20,13 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](h
 
 ## [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) <Badge text="Owner"/>
 
-<npm-info name="stylelint-plugin-stylus"></npm-info>
+<npm-info name="stylelint-plugin-stylus" node ></npm-info>
 <gh-info repo="ota-meshi/stylelint-plugin-stylus"></gh-info>
 [stylelint] plugin for [Stylus].
 
 ## [postcss-styl](https://github.com/ota-meshi/postcss-styl) <Badge text="Owner"/>
 
-<npm-info name="postcss-styl"></npm-info>
+<npm-info name="postcss-styl" node ></npm-info>
 <gh-info repo="ota-meshi/postcss-styl"></gh-info>
 [PostCSS] parser plugin for converting [Stylus] syntax to [PostCSS] AST.
 

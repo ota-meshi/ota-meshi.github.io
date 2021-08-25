@@ -72,7 +72,7 @@ Please see [here](./products/others.md) for details.
 
 ### [Future Enterprise Coding Standards](https://future-architect.github.io/coding-standards/) <Badge text="Owner"/>
 
-<gh-info repo="future-architect/coding-standards"></gh-info>
+<gh-info repo="future-architect/coding-standards" :releases="false"></gh-info>
 Coding Standards for Enterprise.
 
 - [for Java](https://future-architect.github.io/coding-standards/documents/forJava/Javaコーディング規約.html)
