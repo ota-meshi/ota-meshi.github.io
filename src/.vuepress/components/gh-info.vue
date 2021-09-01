@@ -83,22 +83,33 @@ export default {
         return null
       }
       let diff = (Date.now() - at.getTime()) / 1000
+      if (diff < 1) {
+        return "just now"
+      }
       if (diff < 60) {
-        return `${Math.floor(diff)} seconds ago`
+        return labelForUnit(diff, "second")
       }
       diff /= 60
       if (diff < 60) {
-        return `${Math.floor(diff)} minutes ago`
+        return labelForUnit(diff, "minute")
       }
       diff /= 60
       if (diff < 24) {
-        return `${Math.floor(diff)} hours ago`
+        return labelForUnit(diff, "hour")
       }
       diff /= 24
       if (diff <= 30) {
-        return `${Math.floor(diff)} days ago`
+        return labelForUnit(diff, "day")
       }
       return `${at.getFullYear()}-${at.getMonth() + 1}-${at.getDate()}`
+
+      function labelForUnit(num, unit) {
+        const n = Math.floor(num)
+        if (n === 1) {
+          return `${n} ${unit} ago`
+        }
+        return `${n} ${unit}s ago`
+      }
     },
   },
   watch: {
