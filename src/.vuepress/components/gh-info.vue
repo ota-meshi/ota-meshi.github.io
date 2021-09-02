@@ -36,17 +36,19 @@
 import { loadGhButtonsScript } from "./scripts/buttons"
 
 const map = new Map()
-const observer = new IntersectionObserver((entries) => {
-  entries.forEach((entry) => {
-    if (entry.isIntersecting) {
-      const vm = map.get(entry.target)
-      if (vm) {
-        vm.inViewed = true
-        observer.unobserve(entry.target)
+const observer =
+  typeof IntersectionObserver !== "undefined" &&
+  new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const vm = map.get(entry.target)
+        if (vm) {
+          vm.inViewed = true
+          observer.unobserve(entry.target)
+        }
       }
-    }
+    })
   })
-})
 let queue = Promise.resolve()
 
 function pushQueue(fn) {
