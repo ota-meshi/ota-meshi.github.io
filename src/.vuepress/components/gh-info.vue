@@ -35,6 +35,26 @@
 <script>
 import { loadGhButtonsScript } from "./scripts/buttons"
 
+const map = new Map()
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      const vm = map.get(entry.target)
+      if (vm) {
+        vm.inViewed = true
+        observer.unobserve(entry.target)
+      }
+    }
+  })
+})
+let queue = Promise.resolve()
+
+function pushQueue(fn) {
+  const result = queue.then(fn)
+  queue = result.then(() => new Promise((r) => setTimeout(r, 100)))
+  return result
+}
+
 const cache = {}
 
 export default {
@@ -52,6 +72,7 @@ export default {
   data() {
     return {
       latest: null,
+      inViewed: false,
     }
   },
   computed: {
@@ -60,18 +81,22 @@ export default {
       return `https://github-readme-stats.vercel.app/api/pin/?username=${user}&repo=${repo}&show_owner=true`
     },
     latestReq() {
+      if (!this.inViewed) {
+        return false
+      }
       const [, user, repo] = /(.*)\/(.*)/.exec(this.repo)
       if (typeof fetch === "undefined") {
         return null
       }
       const url = `https://api.github.com/repos/${user}/${repo}/releases/latest`
-      return (
-        cache[url] ||
-        (cache[url] = fetch(
-          `https://api.github.com/repos/${user}/${repo}/releases/latest`,
-          { mode: "cors" },
-        ))
-      )
+      if (cache[url]) {
+        return cache[url]
+      }
+      return (cache[url] = pushQueue(() =>
+        fetch(`https://api.github.com/repos/${user}/${repo}/releases/latest`, {
+          mode: "cors",
+        }),
+      ))
     },
     latestAt() {
       const at = this.latest && this.latest.published_at
@@ -115,6 +140,7 @@ export default {
   watch: {
     latestReq: {
       async handler(req) {
+        if (!req) return
         const body = await (await req).json()
         this.latest = body
       },
@@ -122,7 +148,13 @@ export default {
     },
   },
   mounted() {
+    map.set(this.$el, this)
+    observer.observe(this.$el)
     loadGhButtonsScript()
+  },
+  beforeDestroy() {
+    observer.unobserve(this.$el)
+    map.delete(this.$el)
   },
 }
 </script>
