@@ -7,6 +7,12 @@ pageClass: profile
 
 My name is **Yosuke Ota**.
 My main job is a front-end developer. I love static code analysis tools.
+I'm an active contributor to some OSS.
+
+- I maintain [eslint-plugin-vue](https://eslint.vuejs.org/) and [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) as [Vue core team member](https://v3.vuejs.org/community/team.html).
+- I maintain some popular ESLint plugins. (e.g. [eslint-plugin-regexp](https://ota-meshi.github.io/eslint-plugin-regexp/), [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/), and [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/).)
+- I maintain [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) as stylelint org owners team member.
+- I'm the creator of [cheetah-grid](https://future-architect.github.io/cheetah-grid/) that the fastest OSS data table for the Web.
 
 ## OSS Organizations
 
