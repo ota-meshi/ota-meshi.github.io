@@ -14,6 +14,8 @@ I'm an active contributor to some OSS.
 - I maintain [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) as stylelint org owners team member.
 - I'm the creator of [cheetah-grid](https://future-architect.github.io/cheetah-grid/) that the fastest OSS data table for the Web.
 
+<gh-sponsors/>
+
 ## OSS Organizations
 
 <p class="organizations">
@@ -106,7 +108,7 @@ Coding Standards for Enterprise.
 
 ## Accounts
 
-- [GitHub (ota-meshi)](https://github.com/ota-meshi)
+- [GitHub (ota-meshi)](https://github.com/ota-meshi) <gh-sponsors/>
 - [npm (ota-meshi)](https://www.npmjs.com/~ota-meshi)
 - [Qiita (ota-meshi) <img src="https://img.shields.io/badge/dynamic/json.svg?label=Qiita&colorB=brightgreen&suffix= items&query=$.items_count&uri=https%3A%2F%2Fqiita.com%2Fapi%2Fv2%2Fusers%2Fota-meshi&maxAge=3600">](https://qiita.com/ota-meshi)
 - [Twitter](https://twitter.com/omoteota)
