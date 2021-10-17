@@ -21,6 +21,12 @@ Cheetah Grid for [Vue.js].
 <ch-ex-info app-key="ohgdgoglcbcfofphmmnkkdbpffklhjgh"></ch-ex-info>
 A Chrome extension that filters select box options.
 
+## [Stylus](https://stylus-lang.com/) <Badge text="Collaborator" type="warning"/>
+
+<npm-info name="stylus"></npm-info>
+<gh-info repo="stylus/stylus"></gh-info>
+Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.
+
 ## [uroboroSQL](https://future-architect.github.io/uroborosql-doc/)
 
 <gh-info repo="future-architect/uroborosql"></gh-info>
@@ -36,3 +42,6 @@ SQL formatter.
   <intellij-info app-key="9614-intellij-uroborosql-formatter"></intellij-info>
 - [Eclipse](https://marketplace.eclipse.org/content/eclipse-uroborosql-formatter)
   <eclipse-info app-name="eclipse-uroborosql-formatter"></eclipse-info>
+
+[vue.js]: https://vuejs.org/
+[stylus]: https://stylus-lang.com/
