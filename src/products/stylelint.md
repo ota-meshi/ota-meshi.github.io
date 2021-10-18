@@ -22,7 +22,7 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](h
 
 <npm-info name="postcss-html" node ></npm-info>
 <gh-info repo="ota-meshi/postcss-html"></gh-info>
-[PostCSS] HTML Syntax.
+[PostCSS] syntax for parsing HTML (and HTML-like)
 
 ## [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) <Badge text="Owner"/>
 
