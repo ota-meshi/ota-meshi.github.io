@@ -18,6 +18,12 @@ A mighty, modern CSS linter.
 
 A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](https://www.w3.org/Style/CSS/)/[SCSS](https://sass-lang.com/documentation/syntax)/[Less](http://lesscss.org/) with [stylelint]
 
+## [stylelint-config-recommended-vue](https://github.com/ota-meshi/stylelint-config-recommended-vue) <Badge text="Owner"/>
+
+<npm-info name="stylelint-config-recommended-vue" node ></npm-info>
+<gh-info repo="ota-meshi/stylelint-config-recommended-vue"></gh-info>
+The recommended shareable [Vue] config for [Stylelint].
+
 ## [postcss-html](https://github.com/ota-meshi/postcss-html) <Badge text="Maintainer" type="warning"/>
 
 <npm-info name="postcss-html" node ></npm-info>
@@ -37,6 +43,7 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](h
 [PostCSS] parser plugin for converting [Stylus] syntax to [PostCSS] AST.
 
 [vue.js]: https://vuejs.org/
+[vue]: https://vuejs.org/
 [stylelint]: https://stylelint.io/
 [eslint]: https://eslint.org/
 [stylus]: https://stylus-lang.com/
