@@ -24,11 +24,17 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](h
 <gh-info repo="ota-meshi/stylelint-config-recommended-vue"></gh-info>
 The recommended shareable [Vue] config for [Stylelint].
 
+## [stylelint-config-html](https://github.com/ota-meshi/stylelint-config-html) <Badge text="Owner"/>
+
+<npm-info name="stylelint-config-html" node ></npm-info>
+<gh-info repo="ota-meshi/stylelint-config-html"></gh-info>
+The shareable HTML (and HTML-like) config for [Stylelint].
+
 ## [postcss-html](https://github.com/ota-meshi/postcss-html) <Badge text="Maintainer" type="warning"/>
 
 <npm-info name="postcss-html" node ></npm-info>
 <gh-info repo="ota-meshi/postcss-html"></gh-info>
-[PostCSS] syntax for parsing HTML (and HTML-like)
+[PostCSS] syntax for parsing HTML (and HTML-like).
 
 ## [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) <Badge text="Owner"/>
 
@@ -41,6 +47,12 @@ The recommended shareable [Vue] config for [Stylelint].
 <npm-info name="postcss-styl" node ></npm-info>
 <gh-info repo="ota-meshi/postcss-styl"></gh-info>
 [PostCSS] parser plugin for converting [Stylus] syntax to [PostCSS] AST.
+
+## [postcss-markdown](https://github.com/ota-meshi/postcss-markdown) <Badge text="Maintainer" type="warning"/>
+
+<npm-info name="postcss-markdown" node ></npm-info>
+<gh-info repo="ota-meshi/postcss-markdown"></gh-info>
+[PostCSS] syntax for parsing Markdown.
 
 [vue.js]: https://vuejs.org/
 [vue]: https://vuejs.org/
