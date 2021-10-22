@@ -3,7 +3,7 @@ sidebarDepth: 4
 pageClass: products
 ---
 
-# stylelint and Related Products
+# Stylelint and Related Products
 
 ## [stylelint](https://stylelint.io/) <Badge text="Owners Member" type="warning"/>
 
