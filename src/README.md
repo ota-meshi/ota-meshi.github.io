@@ -11,7 +11,7 @@ I'm an active contributor to some OSS.
 
 - I maintain [eslint-plugin-vue](https://eslint.vuejs.org/) and [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) as [Vue core team member](https://v3.vuejs.org/community/team.html).
 - I maintain some popular ESLint plugins. (e.g. [eslint-plugin-regexp](https://ota-meshi.github.io/eslint-plugin-regexp/), [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/), and [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/).)
-- I maintain [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) as stylelint org owners team member.
+- I maintain [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) as Stylelint org owners team member.
 - I'm the creator of [cheetah-grid](https://future-architect.github.io/cheetah-grid/) that the fastest OSS data table for the Web.
 
 <gh-sponsors/>
@@ -28,7 +28,7 @@ I'm an active contributor to some OSS.
     <a href="https://github.com/stylelint" target="_blank">
         <p align="center">
             <img src="https://github.com/stylelint.png" height="50"><br>
-            stylelint
+            Stylelint
         </p>
     </a>
     <a href="https://github.com/intlify" target="_blank">
@@ -60,11 +60,11 @@ I maintain many ESLint plugins.
 
 Please see [here](./products/eslint.md) for details.
 
-### [Related to stylelint](./products/stylelint.md)
+### [Related to Stylelint](./products/stylelint.md)
 
-I maintain stylelint and some stylelint related products.
+I maintain Stylelint and some Stylelint related products.
 
-[stylelint](https://stylelint.io/), [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint), [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) and more.
+[Stylelint](https://stylelint.io/), [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint), [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) and more.
 
 Please see [here](./products/stylelint.md) for details.
 
