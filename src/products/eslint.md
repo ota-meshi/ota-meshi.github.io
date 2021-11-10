@@ -77,6 +77,12 @@ The [ESLint] custom parser for `.vue` files.
 <gh-info repo="ota-meshi/eslint-plugin-svelte"></gh-info>
 [ESLint] plugin for [Svelte] using AST.
 
+## [eslint-plugin-css](https://ota-meshi.github.io/eslint-plugin-css/) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-css" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-css"></gh-info>
+[ESLint] plugin that provides rules to verify CSS definition objects.
+
 ## [eslint-plugin-node-dependencies](https://ota-meshi.github.io/eslint-plugin-node-dependencies/) <Badge text="Owner"/>
 
 <npm-info name="eslint-plugin-node-dependencies" node peer-eslint></npm-info>
