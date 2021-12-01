@@ -16,6 +16,12 @@ The fastest open-source web component of data table. JavaScript library.
 <npm-info name="vue-cheetah-grid"></npm-info>
 Cheetah Grid for [Vue.js].
 
+## [vite-plugin-svelte-md](https://github.com/ota-meshi/vite-plugin-svelte-md) <Badge text="Owner"/>
+
+<npm-info name="vite-plugin-svelte-md"></npm-info>
+<gh-info repo="ota-meshi/vite-plugin-svelte-md"></gh-info>
+Vite plugin to convert markdown to svelte template.
+
 ## [Select box filter](https://chrome.google.com/webstore/detail/select-box-filter/ohgdgoglcbcfofphmmnkkdbpffklhjgh) <Badge text="Owner"/>
 
 <ch-ex-info app-key="ohgdgoglcbcfofphmmnkkdbpffklhjgh"></ch-ex-info>
