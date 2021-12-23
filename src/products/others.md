@@ -63,6 +63,6 @@ SQL formatter.
 
 [vue.js]: https://vuejs.org/
 [stylus]: https://stylus-lang.com/
-[Vite]: https://vitejs.dev/
-[SvelteKit]: https://kit.svelte.dev/
-[VuePress v2]: https://v2.vuepress.vuejs.org/
+[vite]: https://vitejs.dev/
+[sveltekit]: https://kit.svelte.dev/
+[vuepress v2]: https://v2.vuepress.vuejs.org/
