@@ -20,7 +20,19 @@ Cheetah Grid for [Vue.js].
 
 <npm-info name="vite-plugin-svelte-md"></npm-info>
 <gh-info repo="ota-meshi/vite-plugin-svelte-md"></gh-info>
-Vite plugin to convert markdown to svelte template.
+[Vite] plugin to convert markdown to svelte template.
+
+## [svelte-adapter-ghpages](https://github.com/ota-meshi/svelte-adapter-ghpages) <Badge text="Owner"/>
+
+<npm-info name="svelte-adapter-ghpages"></npm-info>
+<gh-info repo="ota-meshi/svelte-adapter-ghpages"></gh-info>
+[SvelteKit] adapter for gh-pages.
+
+## [vuepress2-plugin-full-text-search](https://github.com/ota-meshi/vuepress2-plugin-full-text-search) <Badge text="Owner"/>
+
+<npm-info name="vuepress2-plugin-full-text-search"></npm-info>
+<gh-info repo="ota-meshi/vuepress2-plugin-full-text-search"></gh-info>
+[VuePress v2] plugin that adds full-text search box.
 
 ## [Select box filter](https://chrome.google.com/webstore/detail/select-box-filter/ohgdgoglcbcfofphmmnkkdbpffklhjgh) <Badge text="Owner"/>
 
@@ -51,3 +63,6 @@ SQL formatter.
 
 [vue.js]: https://vuejs.org/
 [stylus]: https://stylus-lang.com/
+[Vite]: https://vitejs.dev/
+[SvelteKit]: https://kit.svelte.dev/
+[VuePress v2]: https://v2.vuepress.vuejs.org/
