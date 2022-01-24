@@ -24,6 +24,12 @@ A [Visual Studio Code](https://code.visualstudio.com/) extension to lint [CSS](h
 <gh-info repo="ota-meshi/stylelint-config-recommended-vue"></gh-info>
 The recommended shareable [Vue] config for [Stylelint].
 
+## [stylelint-config-standard-vue](https://github.com/ota-meshi/stylelint-config-standard-vue) <Badge text="Owner"/>
+
+<npm-info name="stylelint-config-standard-vue" node ></npm-info>
+<gh-info repo="ota-meshi/stylelint-config-standard-vue"></gh-info>
+The standard shareable [Vue] config for [Stylelint].
+
 ## [stylelint-config-html](https://github.com/ota-meshi/stylelint-config-html) <Badge text="Owner"/>
 
 <npm-info name="stylelint-config-html" node ></npm-info>
