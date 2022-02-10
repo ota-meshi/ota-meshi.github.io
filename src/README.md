@@ -96,6 +96,16 @@ Coding Standards for Enterprise.
 
 特集 2 **最新 Vue.js 3 入門** ── 基本から新機能まで完全網羅
 
+## Awards
+
+- [ESLint Contributor Pool Program - February/March 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-03-25.md#contributor-pool)
+- [ESLint Contributor Pool Program - June 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-07-01.md#contributor-pool)
+- [ESLint Contributor Pool Program - August 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-08-26.md#contributor-pool)
+- [ESLint Contributor Pool Program - November 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-12-02.md#contributor-pool)
+<!-- - Google Open Source Peer Bonus - 2021 4Q -->
+
+See the [maintainer's tweet](https://twitter.com/slicknet/status/1375198854098771971) for the ESLint Contributor Pool Program.
+
 ## Languages
 
 - Java ... 8 and 11+, Checkstyle, SpotBugs(FindBugs), Maven, Gradle, Groovy, Spring
