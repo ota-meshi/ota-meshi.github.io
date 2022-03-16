@@ -33,7 +33,7 @@
     "eslint-plugin-vue": "^8.0.0",
     "eslint-plugin-vue-scoped-css": "^2.0.0",
     "eslint-plugin-yml": "^0.14.0",
-    "prettier": "2.5.1",
+    "prettier": "2.6.0",
     "vuepress": "^1.2.0"
   },
   "dependencies": {
