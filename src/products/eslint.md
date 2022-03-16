@@ -59,7 +59,7 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="ota-meshi/eslint-plugin-json-schema-validator"></gh-info>
 [ESLint] plugin that validates data using JSON Schema Validator.
 
-## [eslint-plugin-es-x](https://ota-meshi.github.io/eslint-plugin-es-x/) <Badge text="Owner"/>
+## [eslint-plugin-es-x](https://ota-meshi.github.io/eslint-plugin-es-x/) <Badge text="Fork" type="warning"/>
 
 <npm-info name="eslint-plugin-es-x" node peer-eslint></npm-info>
 <gh-info repo="ota-meshi/eslint-plugin-es-x"></gh-info>
