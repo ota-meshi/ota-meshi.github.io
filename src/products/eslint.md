@@ -29,6 +29,12 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="future-architect/eslint-plugin-vue-scoped-css"></gh-info>
 [ESLint] plugin for [Scoped CSS] in [Vue.js].
 
+## [eslint-plugin-es-x](https://ota-meshi.github.io/eslint-plugin-es-x/) <Badge text="Fork" type="warning"/>
+
+<npm-info name="eslint-plugin-es-x" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-es-x"></gh-info>
+[ESLint] rules which disallow each ECMAScript syntax.
+
 ## [@ota-meshi/eslint-plugin-svelte](https://ota-meshi.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
 
 <npm-info name="@ota-meshi/eslint-plugin-svelte" node peer-eslint></npm-info>
@@ -58,12 +64,6 @@ Official [ESLint] plugin for [Vue.js].
 <npm-info name="eslint-plugin-json-schema-validator" node peer-eslint></npm-info>
 <gh-info repo="ota-meshi/eslint-plugin-json-schema-validator"></gh-info>
 [ESLint] plugin that validates data using JSON Schema Validator.
-
-## [eslint-plugin-es-x](https://ota-meshi.github.io/eslint-plugin-es-x/) <Badge text="Fork" type="warning"/>
-
-<npm-info name="eslint-plugin-es-x" node peer-eslint></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-es-x"></gh-info>
-[ESLint] rules which disallow each ECMAScript syntax.
 
 ## [eslint-plugin-lodash-template](https://ota-meshi.github.io/eslint-plugin-lodash-template/) <Badge text="Owner"/>
 
