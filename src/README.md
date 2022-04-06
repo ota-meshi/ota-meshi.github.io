@@ -102,7 +102,7 @@ Coding Standards for Enterprise.
 - [ESLint Contributor Pool Program - June 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-07-01.md#contributor-pool)
 - [ESLint Contributor Pool Program - August 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-08-26.md#contributor-pool)
 - [ESLint Contributor Pool Program - November 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-12-02.md#contributor-pool)
-- Google Open Source Peer Bonus H1 2022
+- [Google Open Source Peer Bonus H1 2022](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html)
 
 > - See the [maintainer's tweet](https://twitter.com/slicknet/status/1375198854098771971) for the ESLint Contributor Pool Program.
 
