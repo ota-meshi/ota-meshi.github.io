@@ -119,6 +119,12 @@ A [YAML] parser that produces output [compatible with ESLint](https://eslint.org
 <gh-info repo="ota-meshi/toml-eslint-parser"></gh-info>
 A [TOML] parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
 
+## [astro-eslint-parser](https://github.com/ota-meshi/astro-eslint-parser) <Badge text="Owner"/>
+
+<npm-info name="astro-eslint-parser" node></npm-info>
+<gh-info repo="ota-meshi/astro-eslint-parser"></gh-info>
+[Astro] parser for [ESLint].
+
 [vue.js]: https://vuejs.org/
 [stylelint]: https://stylelint.io/
 [eslint]: https://eslint.org/
@@ -137,3 +143,4 @@ A [TOML] parser that produces output [compatible with ESLint](https://eslint.org
 [yaml]: https://yaml.org/
 [toml]: https://toml.io/
 [svelte]: https://svelte.dev/
+[astro]: https://astro.build/
