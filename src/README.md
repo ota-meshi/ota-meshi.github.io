@@ -103,14 +103,15 @@ Coding Standards for Enterprise.
 - [ESLint Contributor Pool Program - August 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-08-26.md#contributor-pool)
 - [ESLint Contributor Pool Program - November 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-12-02.md#contributor-pool)
 - [Google Open Source Peer Bonus H1 2022](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html)
+- [ESLint Contributor Pool Program - April 2022](https://github.com/eslint/tsc-meetings/blob/main/notes/2022/2022-05-05.md#contributor-pool)
 
 > - See the [maintainer's tweet](https://twitter.com/slicknet/status/1375198854098771971) for the ESLint Contributor Pool Program.
 
 ## Languages
 
-- Java ... 8 and 11+, Checkstyle, SpotBugs(FindBugs), Maven, Gradle, Groovy, Spring
-- JavaScript ... ES6+, [Vue.js], [webpack], [Babel], [PostCSS], Node.js, TypeScript, Electron, Karma, [ESLint], [stylelint]
-- Python ... 2.7 and 3
+- Java ... 8, 11, 17, and above, Checkstyle, SpotBugs(FindBugs), Maven, Gradle, Groovy, Spring
+- JavaScript ... ES2015, and above, [Vue.js], [TypeScript], [ESLint], [Stylelint], [Vite], [webpack], [Babel], [PostCSS], [Node.js], Electron, Karma
+- Python ... 2.7, 3, and above
 - Delphi
 - SQL
 - ~~COBOL~~
@@ -120,9 +121,10 @@ Coding Standards for Enterprise.
 
 - [GitHub (ota-meshi)](https://github.com/ota-meshi) <gh-sponsors/>
 - [npm (ota-meshi)](https://www.npmjs.com/~ota-meshi)
-- [Qiita (ota-meshi) <img src="https://img.shields.io/badge/dynamic/json.svg?label=Qiita&colorB=brightgreen&suffix= items&query=$.items_count&uri=https%3A%2F%2Fqiita.com%2Fapi%2Fv2%2Fusers%2Fota-meshi&maxAge=3600">](https://qiita.com/ota-meshi)
 - [Twitter](https://twitter.com/omoteota)
 - [Facebook](https://www.facebook.com/yosuke.ota.902)
+- [Qiita (ota-meshi) <img src="https://img.shields.io/badge/dynamic/json.svg?label=Qiita&colorB=brightgreen&suffix= items&query=$.items_count&uri=https%3A%2F%2Fqiita.com%2Fapi%2Fv2%2Fusers%2Fota-meshi&maxAge=3600">](https://qiita.com/ota-meshi)
+- [TechFeed](https://techfeed.io/people/@ota_meshi) 公認エキスパート No. 166
 - [LAPRAS](https://lapras.com/public/CCYDZXV)
 - [Linkedin](https://www.linkedin.com/in/yosuke-ota-11a46513a)
 
@@ -143,3 +145,6 @@ Coding Standards for Enterprise.
 [vue i18n]: https://github.com/intlify/vue-i18n-next
 [yaml]: https://yaml.org/
 [toml]: https://toml.io/
+[vite]: https://vitejs.dev/
+[typescript]: https://www.typescriptlang.org/
+[node.js]: https://nodejs.org/

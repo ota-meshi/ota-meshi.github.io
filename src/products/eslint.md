@@ -123,7 +123,7 @@ A [TOML] parser that produces output [compatible with ESLint](https://eslint.org
 
 <npm-info name="astro-eslint-parser" node></npm-info>
 <gh-info repo="ota-meshi/astro-eslint-parser"></gh-info>
-[Astro] parser for [ESLint].
+[Astro] component parser for [ESLint].
 
 [vue.js]: https://vuejs.org/
 [stylelint]: https://stylelint.io/
