@@ -77,6 +77,12 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="intlify/eslint-plugin-svelte"></gh-info>
 [ESLint] plugin for internationalization with [Svelte].
 
+## [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-astro" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-astro"></gh-info>
+[ESLint] plugin for [Astro] component.
+
 ## [eslint-plugin-css](https://ota-meshi.github.io/eslint-plugin-css/) <Badge text="Owner"/>
 
 <npm-info name="eslint-plugin-css" node peer-eslint></npm-info>
