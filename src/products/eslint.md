@@ -79,7 +79,7 @@ Official [ESLint] plugin for [Vue.js].
 
 ## [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/) <Badge text="Owner"/>
 
-<npm-info name="eslint-plugin-astro" node peer-eslint></npm-info>
+<npm-info name="eslint-plugin-astro" node _peer-eslint></npm-info>
 <gh-info repo="ota-meshi/eslint-plugin-astro"></gh-info>
 [ESLint] plugin for [Astro] component.
 
