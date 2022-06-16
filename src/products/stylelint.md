@@ -42,16 +42,16 @@ The shareable HTML (and HTML-like) config for [Stylelint].
 <gh-info repo="ota-meshi/postcss-html"></gh-info>
 [PostCSS] syntax for parsing HTML (and HTML-like).
 
-## [stylelint-plugin-stylus](https://ota-meshi.github.io/stylelint-plugin-stylus/) <Badge text="Owner"/>
+## [stylelint-plugin-stylus](https://stylus.github.io/stylelint-stylus/) <Badge text="Owner"/>
 
 <npm-info name="stylelint-plugin-stylus" node ></npm-info>
-<gh-info repo="ota-meshi/stylelint-plugin-stylus"></gh-info>
+<gh-info repo="stylus/stylelint-stylus"></gh-info>
 [stylelint] plugin for [Stylus].
 
-## [postcss-styl](https://github.com/ota-meshi/postcss-styl) <Badge text="Owner"/>
+## [postcss-styl](https://github.com/stylus/postcss-styl) <Badge text="Owner"/>
 
 <npm-info name="postcss-styl" node ></npm-info>
-<gh-info repo="ota-meshi/postcss-styl"></gh-info>
+<gh-info repo="stylus/postcss-styl"></gh-info>
 [PostCSS] parser plugin for converting [Stylus] syntax to [PostCSS] AST.
 
 ## [postcss-markdown](https://github.com/ota-meshi/postcss-markdown) <Badge text="Maintainer" type="warning"/>
