@@ -64,7 +64,7 @@ Please see [here](./products/eslint.md) for details.
 
 I maintain Stylelint and some Stylelint related products.
 
-[Stylelint](https://stylelint.io/), [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint), [stylelint-plugin-stylus](https://github.com/stylus/stylelint-stylus) and more.
+[Stylelint](https://stylelint.io/), [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint), [stylelint-plugin-stylus](https://github.com/stylus/stylelint-plugin-stylus) and more.
 
 Please see [here](./products/stylelint.md) for details.
 
