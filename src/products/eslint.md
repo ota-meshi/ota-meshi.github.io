@@ -35,9 +35,9 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="ota-meshi/eslint-plugin-es-x"></gh-info>
 [ESLint] rules which disallow each ECMAScript syntax.
 
-## [@ota-meshi/eslint-plugin-svelte](https://ota-meshi.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
+## [eslint-plugin-svelte](https://ota-meshi.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
 
-<npm-info name="@ota-meshi/eslint-plugin-svelte" node peer-eslint></npm-info>
+<npm-info name="eslint-plugin-svelte" node peer-eslint></npm-info>
 <gh-info repo="ota-meshi/eslint-plugin-svelte"></gh-info>
 [ESLint] plugin for [Svelte] using AST.
 
