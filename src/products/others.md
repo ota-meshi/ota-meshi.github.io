@@ -28,10 +28,10 @@ Cheetah Grid for [Vue.js].
 <gh-info repo="ota-meshi/svelte-adapter-ghpages"></gh-info>
 [SvelteKit] adapter for gh-pages.
 
-## [vuepress2-plugin-full-text-search](https://github.com/ota-meshi/vuepress2-plugin-full-text-search) <Badge text="Owner"/>
+## [vuepress-plugin-full-text-search2](https://github.com/ota-meshi/vuepress-plugin-full-text-search2) <Badge text="Owner"/>
 
-<npm-info name="vuepress2-plugin-full-text-search"></npm-info>
-<gh-info repo="ota-meshi/vuepress2-plugin-full-text-search"></gh-info>
+<npm-info name="vuepress-plugin-full-text-search2"></npm-info>
+<gh-info repo="ota-meshi/vuepress-plugin-full-text-search2"></gh-info>
 [VuePress v2] plugin that adds full-text search box.
 
 ## [Select box filter](https://chrome.google.com/webstore/detail/select-box-filter/ohgdgoglcbcfofphmmnkkdbpffklhjgh) <Badge text="Owner"/>
