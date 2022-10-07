@@ -109,6 +109,17 @@ Coding Standards for Enterprise.
 
 特集 2 **最新 Vue.js 3 入門** ── 基本から新機能まで完全網羅
 
+## Talk & Slides
+
+- [Vue.js v-tokyo オンライン Meetup #11](https://vuejs-meetup.connpass.com/event/183195/) > Vue.js コアチーム座談会
+- [Vue 3 リリース記念！オンライントーク](https://vuejs-meetup.connpass.com/event/188194/) <small>[[YouTube](https://www.youtube.com/watch?v=ioYlQ6Ls22I)]</small>
+- [Vue.js v-tokyo オンライン Meetup#12](https://vuejs-meetup.connpass.com/event/195236/) > Vue3 × eslint-plugin-vue <small>[[Slide](https://docs.google.com/presentation/d/1JFS9DiTxUsrlGfYr72n9QRPibgYB-TzSTB8hi6mq4wY/)]</small>
+- [フロントエンドカンファレンス福岡スピンオフ テーマ: ESLint](https://fec-fukuoka.connpass.com/event/201334/) > Vue I18n のメッセージファイルの Lint <small>[[YouTube](https://www.youtube.com/watch?v=Pp2qv4dRUPU)][[Slide](https://docs.google.com/presentation/d/1HuKPREAHoDgOTztVbz42DzGvbr-4VB-r3i-QqcgCXJE/)]</small>
+- [TechFeed Conference 2022](https://techfeed.io/events/techfeed-conference-2022) > [eslint-plugin-vue でより質の高い `<script setup>` を実装する](https://techfeed.io/entries/629ef550a192e46aa36a7760) <small>[[YouTube](https://www.youtube.com/watch?v=kaZqMTX57Ag)][[Slide](https://docs.google.com/presentation/d/18Q8nn69Hi8d39k51HduArKkrCx3CY_ZsbPf-F-tb8Pg/edit?usp=sharing)]</small>
+- [Future Tech Conference 2022](https://future.connpass.com/event/254304/) > Vue 最新構文 `<script setup>`の紹介 <small>[[YouTube](https://youtu.be/hg0yvFpqP8M)][[Slide](https://ota-meshi.github.io/future-tech-conference-slide-2022-07-18/)]</small>
+- [Vue Fes Japan Online 2022](https://vuefes.jp/2022/) > [eslint-plugin-vue を使用して継続的に Vue3 移行する](https://vuefes.jp/2022/sessions/ota-meshi) <small>[[Slide](https://ota-meshi.github.io/vue-fes-japan-online-2022-slide/)]</small>
+- [UIT Meetup vol.17](https://uit.connpass.com/event/258384/) > トークセッション 〜 Vue Fes Japan Online 2022 を振り返って
+
 ## Awards
 
 - [ESLint Contributor Pool Program - February/March 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-03-25.md#contributor-pool)
