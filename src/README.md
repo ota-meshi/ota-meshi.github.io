@@ -118,7 +118,7 @@ Coding Standards for Enterprise.
 - [TechFeed Conference 2022](https://techfeed.io/events/techfeed-conference-2022) > [eslint-plugin-vue でより質の高い `<script setup>` を実装する](https://techfeed.io/entries/629ef550a192e46aa36a7760) <small>[[YouTube](https://www.youtube.com/watch?v=kaZqMTX57Ag)][[Slide](https://docs.google.com/presentation/d/18Q8nn69Hi8d39k51HduArKkrCx3CY_ZsbPf-F-tb8Pg/edit?usp=sharing)]</small>
 - [Future Tech Conference 2022](https://future.connpass.com/event/254304/) > Vue 最新構文 `<script setup>`の紹介 <small>[[YouTube](https://youtu.be/hg0yvFpqP8M)][[Slide](https://ota-meshi.github.io/future-tech-conference-slide-2022-07-18/)]</small>
 - [Vue Fes Japan Online 2022](https://vuefes.jp/2022/) > [eslint-plugin-vue を使用して継続的に Vue3 移行する](https://vuefes.jp/2022/sessions/ota-meshi) <small>[[YouTube(6:05)](https://www.youtube.com/watch?v=dtD4p89ogKM&t=6h5m)][[Slide](https://ota-meshi.github.io/vue-fes-japan-online-2022-slide/)]</small>
-- [UIT Meetup vol.17](https://uit.connpass.com/event/258384/) > トークセッション 〜 Vue Fes Japan Online 2022 を振り返って
+- [UIT Meetup vol.17](https://uit.connpass.com/event/258384/) > トークセッション 〜 Vue Fes Japan Online 2022 を振り返って <small>[[YouTube](https://www.youtube.com/watch?v=2WGBQCaBmWo)]</small>
 
 ## Awards
 
