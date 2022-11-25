@@ -29,10 +29,10 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="future-architect/eslint-plugin-vue-scoped-css"></gh-info>
 [ESLint] plugin for [Scoped CSS] in [Vue.js].
 
-## [eslint-plugin-es-x](https://ota-meshi.github.io/eslint-plugin-es-x/) <Badge text="Fork" type="warning"/>
+## [eslint-plugin-es-x](https://eslint-community.github.io/eslint-plugin-es-x/) <Badge text="Fork" type="warning"/>
 
 <npm-info name="eslint-plugin-es-x" node peer-eslint></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-es-x"></gh-info>
+<gh-info repo="eslint-community/eslint-plugin-es-x"></gh-info>
 [ESLint] rules which disallow each ECMAScript syntax.
 
 ## [eslint-plugin-svelte](https://ota-meshi.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
