@@ -41,6 +41,12 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="ota-meshi/eslint-plugin-svelte"></gh-info>
 [ESLint] plugin for [Svelte] using AST.
 
+## [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-astro" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-astro"></gh-info>
+[ESLint] plugin for [Astro] component.
+
 ## [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/) <Badge text="Owner"/>
 
 <npm-info name="eslint-plugin-jsonc" node peer-eslint></npm-info>
@@ -77,12 +83,6 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="intlify/eslint-plugin-svelte"></gh-info>
 [ESLint] plugin for internationalization with [Svelte].
 
-## [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-astro" node peer-eslint></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-astro"></gh-info>
-[ESLint] plugin for [Astro] component.
-
 ## [eslint-plugin-css](https://ota-meshi.github.io/eslint-plugin-css/) <Badge text="Owner"/>
 
 <npm-info name="eslint-plugin-css" node peer-eslint></npm-info>
@@ -107,6 +107,12 @@ The [ESLint] custom parser for `.vue` files.
 <gh-info repo="ota-meshi/svelte-eslint-parser"></gh-info>
 [Svelte] parser for [ESLint].
 
+## [astro-eslint-parser](https://github.com/ota-meshi/astro-eslint-parser) <Badge text="Owner"/>
+
+<npm-info name="astro-eslint-parser" node></npm-info>
+<gh-info repo="ota-meshi/astro-eslint-parser"></gh-info>
+[Astro] component parser for [ESLint].
+
 ## [jsonc-eslint-parser](https://github.com/ota-meshi/jsonc-eslint-parser) <Badge text="Owner"/>
 
 <npm-info name="jsonc-eslint-parser" node></npm-info>
@@ -124,12 +130,6 @@ A [YAML] parser that produces output [compatible with ESLint](https://eslint.org
 <npm-info name="toml-eslint-parser" node></npm-info>
 <gh-info repo="ota-meshi/toml-eslint-parser"></gh-info>
 A [TOML] parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
-
-## [astro-eslint-parser](https://github.com/ota-meshi/astro-eslint-parser) <Badge text="Owner"/>
-
-<npm-info name="astro-eslint-parser" node></npm-info>
-<gh-info repo="ota-meshi/astro-eslint-parser"></gh-info>
-[Astro] component parser for [ESLint].
 
 [vue.js]: https://vuejs.org/
 [stylelint]: https://stylelint.io/
