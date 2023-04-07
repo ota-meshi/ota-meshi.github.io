@@ -35,10 +35,10 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="eslint-community/eslint-plugin-es-x"></gh-info>
 [ESLint] rules which disallow each ECMAScript syntax.
 
-## [eslint-plugin-svelte](https://ota-meshi.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
+## [eslint-plugin-svelte](https://sveltejs.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
 
 <npm-info name="eslint-plugin-svelte" node peer-eslint></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-svelte"></gh-info>
+<gh-info repo="sveltejs/eslint-plugin-svelte"></gh-info>
 [ESLint] plugin for [Svelte] using AST.
 
 ## [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/) <Badge text="Owner"/>
@@ -101,10 +101,10 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="vuejs/vue-eslint-parser"></gh-info>
 The [ESLint] custom parser for `.vue` files.
 
-## [svelte-eslint-parser](https://github.com/ota-meshi/svelte-eslint-parser) <Badge text="Owner"/>
+## [svelte-eslint-parser](https://github.com/sveltejs/svelte-eslint-parser) <Badge text="Owner"/>
 
 <npm-info name="svelte-eslint-parser" node></npm-info>
-<gh-info repo="ota-meshi/svelte-eslint-parser"></gh-info>
+<gh-info repo="sveltejs/svelte-eslint-parser"></gh-info>
 [Svelte] parser for [ESLint].
 
 ## [astro-eslint-parser](https://github.com/ota-meshi/astro-eslint-parser) <Badge text="Owner"/>
