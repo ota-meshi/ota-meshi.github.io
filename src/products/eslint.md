@@ -17,6 +17,18 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="ota-meshi/eslint-plugin-regexp"></gh-info>
 [ESLint] plugin for finding RegExp mistakes and RegExp style guide violations.
 
+## [eslint-plugin-svelte](https://sveltejs.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-svelte" node peer-eslint></npm-info>
+<gh-info repo="sveltejs/eslint-plugin-svelte"></gh-info>
+[ESLint] plugin for [Svelte] using AST.
+
+## [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-astro" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-astro"></gh-info>
+[ESLint] plugin for [Astro] component.
+
 ## [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/) <Badge text="Maintainer" type="warning"/>
 
 <npm-info name="@intlify/eslint-plugin-vue-i18n" node peer-eslint></npm-info>
@@ -34,18 +46,6 @@ Official [ESLint] plugin for [Vue.js].
 <npm-info name="eslint-plugin-es-x" node peer-eslint></npm-info>
 <gh-info repo="eslint-community/eslint-plugin-es-x"></gh-info>
 [ESLint] rules which disallow each ECMAScript syntax.
-
-## [eslint-plugin-svelte](https://sveltejs.github.io/eslint-plugin-svelte/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-svelte" node peer-eslint></npm-info>
-<gh-info repo="sveltejs/eslint-plugin-svelte"></gh-info>
-[ESLint] plugin for [Svelte] using AST.
-
-## [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/) <Badge text="Owner"/>
-
-<npm-info name="eslint-plugin-astro" node peer-eslint></npm-info>
-<gh-info repo="ota-meshi/eslint-plugin-astro"></gh-info>
-[ESLint] plugin for [Astro] component.
 
 ## [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/) <Badge text="Owner"/>
 
