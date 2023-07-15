@@ -17,7 +17,7 @@ module.exports = {
   },
   rules: {
     "prettier/prettier": ["error", {}],
-    "node/no-unsupported-features/es-syntax": "off",
+    "n/no-unsupported-features/es-syntax": "off",
     "no-unused-vars": [
       "error",
       { vars: "all", args: "none", ignoreRestSiblings: true },
