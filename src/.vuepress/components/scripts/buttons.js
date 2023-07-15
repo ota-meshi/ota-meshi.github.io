@@ -1,4 +1,4 @@
-import debounce from "lodash/debounce"
+import debounce from "lodash/debounce.js"
 export const loadGhButtonsScript = debounce(function setupGh() {
   loadScript("gh-buttons-script", "https://buttons.github.io/buttons.js")
 }, 1000)
