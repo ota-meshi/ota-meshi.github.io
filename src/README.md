@@ -127,6 +127,7 @@ Coding Standards for Enterprise.
 - [Future Tech Conference 2022](https://future.connpass.com/event/254304/) > Vue 最新構文 `<script setup>`の紹介 <small>[[YouTube](https://youtu.be/hg0yvFpqP8M)][[Slide](https://ota-meshi.github.io/future-tech-conference-slide-2022-07-18/)]</small>
 - [Vue Fes Japan Online 2022](https://vuefes.jp/2022/) > [eslint-plugin-vue を使用して継続的に Vue3 移行する](https://vuefes.jp/2022/sessions/ota-meshi) <small>[[YouTube(6:05)](https://www.youtube.com/watch?v=dtD4p89ogKM&t=6h5m)][[Slide](https://ota-meshi.github.io/vue-fes-japan-online-2022-slide/)]</small>
 - [UIT Meetup vol.17](https://uit.connpass.com/event/258384/) > トークセッション 〜 Vue Fes Japan Online 2022 を振り返って <small>[[YouTube](https://www.youtube.com/watch?v=2WGBQCaBmWo)]</small>
+- [Svelte Japan Podcast 「eslint-plugin-svelte & Svelte 4」特別回](https://twitter.com/i/spaces/1vAGRAAwdRXKl?s=20)
 
 ## Awards
 
@@ -137,6 +138,7 @@ Coding Standards for Enterprise.
 - [Google Open Source Peer Bonus H1 2022](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html)
 - [ESLint Contributor Pool Program - April 2022](https://github.com/eslint/tsc-meetings/blob/main/notes/2022/2022-05-05.md#contributor-pool)
 - ESLint Contributor Pool Program - June 2023
+- ESLint Contributor Pool Program - July 2023
 
 > - See the [maintainer's tweet](https://twitter.com/slicknet/status/1375198854098771971) for the ESLint Contributor Pool Program.
 
