@@ -11,6 +11,7 @@ I'm an active contributor to some OSS.
 
 - I maintain [eslint-plugin-vue](https://eslint.vuejs.org/) and [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) as [Vue core team member](https://vuejs.org/about/team.html).
 - I'm the creator of [eslint-plugin-svelte](https://sveltejs.github.io/eslint-plugin-svelte/). It allow you to check [Svelte] with [ESLint]. I maintain it as [Svelte team member](https://github.com/orgs/sveltejs/people).
+- I maintain [ESLint] as [ESLint] committer.
 - I maintain some popular ESLint plugins. (e.g. [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/), [eslint-plugin-regexp](https://ota-meshi.github.io/eslint-plugin-regexp/), [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/), [eslint-plugin-yml](https://ota-meshi.github.io/eslint-plugin-yml/), and [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/).)
 - I maintain packages related to [ESLint] as [ESLint Community core team member](https://eslint.org/blog/2023/03/announcing-eslint-community-org/).
 - I maintain [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) as Stylelint org owners team member.
@@ -32,6 +33,12 @@ I'm an active contributor to some OSS.
         <p align="center">
             <img src="https://github.com/sveltejs.png" height="50"><br>
             Svelte
+        </p>
+    </a>
+    <a href="https://github.com/eslint" target="_blank">
+        <p align="center">
+            <img src="https://github.com/eslint.png" height="50"><br>
+            ESLint
         </p>
     </a>
     <a href="https://github.com/stylelint" target="_blank">
@@ -73,9 +80,9 @@ I'm an active contributor to some OSS.
 
 ## OSS Products
 
-### [ESLint Plugins and Parsers](./products/eslint.md)
+### [ESLint, ESLint Plugins and Parsers](./products/eslint.md)
 
-I maintain many ESLint plugins.
+I maintain ESLint and many ESLint plugins.
 
 ESLint plugin for [Vue](https://eslint.vuejs.org/), [vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/), [RegExp](https://ota-meshi.github.io/eslint-plugin-regexp/), [JSON, JSONC, JSON5](https://ota-meshi.github.io/eslint-plugin-jsonc/) , [YAML](https://ota-meshi.github.io/eslint-plugin-yml/), [TOML](https://ota-meshi.github.io/eslint-plugin-toml/), [lodash-template](https://ota-meshi.github.io/eslint-plugin-lodash-template/), [Vue Scoped CSS](https://future-architect.github.io/eslint-plugin-vue-scoped-css/), [JSON Schema](https://ota-meshi.github.io/eslint-plugin-json-schema-validator/), [Svelte](https://sveltejs.github.io/eslint-plugin-svelte/), [CSS Objects](https://ota-meshi.github.io/eslint-plugin-css/), [dependencies](https://ota-meshi.github.io/eslint-plugin-node-dependencies/), [Astro](https://ota-meshi.github.io/eslint-plugin-astro/), and more.
 

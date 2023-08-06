@@ -5,7 +5,7 @@ pageClass: products
 
 # Stylelint and Related Products
 
-## [stylelint](https://stylelint.io/) <Badge text="Owners Member" type="warning"/>
+## [Stylelint](https://stylelint.io/) <Badge text="Owners Member" type="warning"/>
 
 <npm-info name="stylelint" node ></npm-info>
 <gh-info repo="stylelint/stylelint"></gh-info>

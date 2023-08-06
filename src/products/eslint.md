@@ -3,7 +3,13 @@ sidebarDepth: 4
 pageClass: products
 ---
 
-# ESLint Plugins and Parsers
+# ESLint, ESLint Plugins and Parsers
+
+## [ESLint] <Badge text="Commiter" type="warning"/>
+
+<npm-info name="eslint" node ></npm-info>
+<gh-info repo="eslint/eslint"></gh-info>
+Find and fix problems in your JavaScript code.
 
 ## [eslint-plugin-vue](https://eslint.vuejs.org/) <Badge text="Maintainer" type="warning"/>
 
