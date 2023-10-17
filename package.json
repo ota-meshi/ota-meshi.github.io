@@ -7,8 +7,9 @@
   "scripts": {
     "lint": "eslint . && prettier . --check",
     "format": "prettier . --write",
-    "watch": "vuepress dev --debug src",
-    "build": "vuepress build src"
+    "watch": "npm run vuepress -- dev --debug src",
+    "build": "npm run vuepress -- build src",
+    "vuepress": "node --openssl-legacy-provider ./node_modules/vuepress/cli.js"
   },
   "repository": {
     "type": "git",
