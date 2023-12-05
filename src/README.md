@@ -135,6 +135,7 @@ Coding Standards for Enterprise.
 - [Vue Fes Japan Online 2022](https://vuefes.jp/2022/) > [eslint-plugin-vue を使用して継続的に Vue3 移行する](https://vuefes.jp/2022/sessions/ota-meshi) <small>[[YouTube(6:05)](https://www.youtube.com/watch?v=dtD4p89ogKM&t=6h5m)][[Slide](https://ota-meshi.github.io/vue-fes-japan-online-2022-slide/)]</small>
 - [UIT Meetup vol.17](https://uit.connpass.com/event/258384/) > トークセッション 〜 Vue Fes Japan Online 2022 を振り返って <small>[[YouTube](https://www.youtube.com/watch?v=2WGBQCaBmWo)]</small>
 - [Svelte Japan Podcast 「eslint-plugin-svelte & Svelte 4」特別回](https://twitter.com/i/spaces/1vAGRAAwdRXKl?s=20)
+- [Vue Fes Japan 2023](https://vuefes.jp/2023/) > [eslint-plugin-vueの現状と今後](https://vuefes.jp/2023/sessions/ota-meshi) <small>[[Slide](https://ota-meshi.github.io/vue-fes-japan-2023-slide/)]</small>
 
 ## Awards
 
@@ -146,6 +147,7 @@ Coding Standards for Enterprise.
 - [ESLint Contributor Pool Program - April 2022](https://github.com/eslint/tsc-meetings/blob/main/notes/2022/2022-05-05.md#contributor-pool)
 - ESLint Contributor Pool Program - June 2023
 - ESLint Contributor Pool Program - July 2023
+- [Astro Ecosystem Fund](https://astro.build/blog/astro-ecosystem-fund/)
 
 > - See the [maintainer's tweet](https://twitter.com/slicknet/status/1375198854098771971) for the ESLint Contributor Pool Program.
 
