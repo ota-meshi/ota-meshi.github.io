@@ -1,5 +1,4 @@
 ---
-sidebarDepth: 4
 pageClass: profile
 ---
 
@@ -22,50 +21,50 @@ I'm an active contributor to some OSS.
 
 ## OSS Organizations
 
-<p class="organizations">
+<div class="organizations">
     <a href="https://github.com/vuejs" target="_blank">
         <p align="center">
-            <img src="https://github.com/vuejs.png" height="50"><br>
+            <img src="https://github.com/vuejs.png" style="height: 50px"><br>
             Vue.js
         </p>
     </a>
     <a href="https://github.com/sveltejs" target="_blank">
         <p align="center">
-            <img src="https://github.com/sveltejs.png" height="50"><br>
+            <img src="https://github.com/sveltejs.png" style="height: 50px"><br>
             Svelte
         </p>
     </a>
     <a href="https://github.com/eslint" target="_blank">
         <p align="center">
-            <img src="https://github.com/eslint.png" height="50"><br>
+            <img src="https://github.com/eslint.png" style="height: 50px"><br>
             ESLint
         </p>
     </a>
     <a href="https://github.com/stylelint" target="_blank">
         <p align="center">
-            <img src="https://github.com/stylelint.png" height="50"><br>
+            <img src="https://github.com/stylelint.png" style="height: 50px"><br>
             Stylelint
         </p>
     </a>
     <a href="https://github.com/intlify" target="_blank">
         <p align="center">
-            <img src="https://github.com/intlify.png" height="50"><br>
+            <img src="https://github.com/intlify.png" style="height: 50px"><br>
             Intlify
         </p>
     </a>
     <a href="https://github.com/stylus" target="_blank">
         <p align="center">
-            <img src="https://github.com/stylus.png" height="50"><br>
+            <img src="https://github.com/stylus.png" style="height: 50px"><br>
             Stylus
         </p>
     </a>
     <a href="https://github.com/eslint-community" target="_blank">
         <p align="center">
-            <img src="https://github.com/eslint-community.png" height="50"><br>
+            <img src="https://github.com/eslint-community.png" style="height: 50px"><br>
             ESLint Community
         </p>
     </a>
-</p>
+</div>
 
 ## GitHub Stats
 
@@ -120,7 +119,7 @@ Coding Standards for Enterprise.
 
 ### [WEB+DB PRESS Vol.120](https://gihyo.jp/magazine/wdpress/archive/2021/vol120)
 
-<img src="http://image.gihyo.co.jp/assets/images/cover/2021/9784297118112.jpg" height="300">
+<img src="http://image.gihyo.co.jp/assets/images/cover/2021/9784297118112.jpg" style="height: 300px">
 
 特集 2 **最新 Vue.js 3 入門** ── 基本から新機能まで完全網羅
 

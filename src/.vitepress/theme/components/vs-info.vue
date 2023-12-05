@@ -33,7 +33,15 @@ export default {
 </script>
 
 <style scoped>
+.vs-info,
+.vs-info a {
+  display: inline-flex;
+  gap: 2px;
+  flex-wrap: wrap;
+  vertical-align: top;
+}
 .vs-info {
-  display: inline-block;
+  padding-right: 2px;
+  padding-bottom: 2px;
 }
 </style>

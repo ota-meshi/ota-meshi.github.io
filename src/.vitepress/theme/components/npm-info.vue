@@ -12,7 +12,6 @@
         :src="`https://img.shields.io/npm/dependency-version/${name}/peer/eslint.svg?maxAge=3600`"
       />
     </a>
-    <br />
     <a :href="`https://www.npmtrends.com/${name}`" target="_blank">
       <img
         :src="`https://img.shields.io/badge/dynamic/json.svg?label=downloads&colorB=green&suffix=/day&query=$.downloads&uri=https://api.npmjs.org//downloads/point/last-day/${name}&maxAge=3600`"
@@ -44,7 +43,15 @@ export default {
 </script>
 
 <style scoped>
+.npm-info,
+.npm-info a {
+  display: inline-flex;
+  gap: 2px;
+  flex-wrap: wrap;
+  vertical-align: top;
+}
 .npm-info {
-  display: inline-block;
+  padding-right: 2px;
+  padding-bottom: 2px;
 }
 </style>

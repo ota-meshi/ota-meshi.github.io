@@ -1,5 +1,6 @@
 /node_modules
-/src/.vuepress/dist
 !/.github
 !/.vscode
-!/src/.vuepress
+!/src/.vitepress
+src/.vitepress/cache
+src/.vitepress/dist

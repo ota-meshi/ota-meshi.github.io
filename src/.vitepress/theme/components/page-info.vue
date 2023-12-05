@@ -54,7 +54,11 @@ export default {
 <style scoped>
 .page-info {
   display: inline-flex;
-  align-items: flex-end;
+  gap: 2px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  vertical-align: top;
+  margin-top: 4px;
 }
 
 .page-info >>> .hatena-bookmark-button-frame {

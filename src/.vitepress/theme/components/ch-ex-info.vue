@@ -41,7 +41,15 @@ export default {
 </script>
 
 <style scoped>
+.ch-ex-info,
+.ch-ex-info a {
+  display: inline-flex;
+  gap: 2px;
+  flex-wrap: wrap;
+  vertical-align: top;
+}
 .ch-ex-info {
-  display: inline-block;
+  padding-right: 2px;
+  padding-bottom: 2px;
 }
 </style>

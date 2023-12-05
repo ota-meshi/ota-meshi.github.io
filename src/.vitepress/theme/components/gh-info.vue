@@ -179,6 +179,11 @@ export default {
 
 <style scoped>
 .gh-info {
-  display: inline-block;
+  display: inline-flex;
+  gap: 2px;
+  flex-wrap: wrap;
+  vertical-align: top;
+  padding-right: 2px;
+  padding-bottom: 2px;
 }
 </style>
