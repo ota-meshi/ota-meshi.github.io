@@ -5,7 +5,7 @@
   "build": {
     "dockerfile": "Dockerfile",
     // Update 'VARIANT' to pick a Node version: 12, 14, 16
-    "args": { "VARIANT": "16" }
+    "args": { "VARIANT": "16" },
   },
 
   // Set *default* container specific settings.json values on container create.
@@ -16,7 +16,7 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "stylelint.vscode-stylelint",
-    "octref.vetur"
+    "octref.vetur",
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
@@ -26,5 +26,5 @@
   "postCreateCommand": "npm install",
 
   // Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-  "remoteUser": "node"
+  "remoteUser": "node",
 }
