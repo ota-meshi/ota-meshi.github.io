@@ -10,7 +10,6 @@ I'm an active contributor to some OSS.
 
 - I maintain [eslint-plugin-vue](https://eslint.vuejs.org/) and [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) as [Vue core team member](https://vuejs.org/about/team.html).
 - I'm the creator of [eslint-plugin-svelte](https://sveltejs.github.io/eslint-plugin-svelte/). It allow you to check [Svelte] with [ESLint]. I maintain it as [Svelte team member](https://github.com/orgs/sveltejs/people).
-- I maintain [ESLint] as [ESLint] committer.
 - I maintain some popular ESLint plugins. (e.g. [eslint-plugin-astro](https://ota-meshi.github.io/eslint-plugin-astro/), [eslint-plugin-regexp](https://ota-meshi.github.io/eslint-plugin-regexp/), [@intlify/eslint-plugin-vue-i18n](https://eslint-plugin-vue-i18n.intlify.dev/), [eslint-plugin-yml](https://ota-meshi.github.io/eslint-plugin-yml/), and [eslint-plugin-jsonc](https://ota-meshi.github.io/eslint-plugin-jsonc/).)
 - I maintain packages related to [ESLint] as [ESLint Community core team member](https://eslint.org/blog/2023/03/announcing-eslint-community-org/).
 - I maintain [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) as Stylelint org owners team member.

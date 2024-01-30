@@ -5,7 +5,7 @@ pageClass: products
 
 # ESLint, ESLint Plugins and Parsers
 
-## [ESLint] <Badge text="Commiter" type="warning"/>
+## [ESLint] <Badge text="Alumni" type="warning"/>
 
 <npm-info name="eslint" node ></npm-info>
 <gh-info repo="eslint/eslint"></gh-info>
