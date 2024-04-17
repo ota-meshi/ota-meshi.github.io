@@ -147,6 +147,7 @@ Coding Standards for Enterprise.
 - ESLint Contributor Pool Program - June 2023
 - ESLint Contributor Pool Program - July 2023
 - [Astro Ecosystem Fund](https://astro.build/blog/astro-ecosystem-fund/)
+- ESLint Contributor Pool Program - March 2024
 
 > - See the [maintainer's tweet](https://twitter.com/slicknet/status/1375198854098771971) for the ESLint Contributor Pool Program.
 
