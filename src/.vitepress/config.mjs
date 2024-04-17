@@ -16,7 +16,7 @@ export default defineConfig({
     },
     editLink: {
       pattern:
-        "https://github.com/ota-meshi/ota-meshi.github.io/edit/master/docs/:path",
+        "https://github.com/ota-meshi/ota-meshi.github.io/edit/master/src/:path",
     },
     outline: {
       level: "deep",
