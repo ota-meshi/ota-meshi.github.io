@@ -107,6 +107,12 @@ Official [ESLint] plugin for [Vue.js].
 <gh-info repo="ota-meshi/eslint-plugin-eslint-rule-tester"></gh-info>
 An experimental [ESLint] plugin that auto-fixes test cases defined in RuleTester.
 
+## [eslint-plugin-math](https://github.com/ota-meshi/eslint-plugin-math) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-math" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-math"></gh-info>
+[ESLint] plugin related to Math object and Number.
+
 ## [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) <Badge text="CoMaintainer" type="warning"/>
 
 <npm-info name="vue-eslint-parser" node peer-eslint></npm-info>

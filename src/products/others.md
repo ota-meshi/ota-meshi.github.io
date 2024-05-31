@@ -34,6 +34,23 @@ Cheetah Grid for [Vue.js].
 <gh-info repo="ota-meshi/vuepress-plugin-full-text-search2"></gh-info>
 [VuePress v2] plugin that adds full-text search box.
 
+## [@bignum](https://github.com/ota-meshi/bignum) <Badge text="Owner"/>
+
+<gh-info repo="ota-meshi/bignum"></gh-info>
+A various JavaScript utility library for performing arbitrary-precision arithmetics.
+
+### @bignum/core
+<npm-info name="@bignum/core"></npm-info>
+Arbitrary-precision decimal arithmetic with BigInt.
+
+### @bignum/template
+<npm-info name="@bignum/template"></npm-info>
+Write formulas with template literals.
+
+### @bignum/template-light
+<npm-info name="@bignum/template-light"></npm-info>
+Write formulas with template literals. (**light version**)
+
 ## [Select box filter](https://chrome.google.com/webstore/detail/select-box-filter/ohgdgoglcbcfofphmmnkkdbpffklhjgh) <Badge text="Owner"/>
 
 <ch-ex-info app-key="ohgdgoglcbcfofphmmnkkdbpffklhjgh"></ch-ex-info>
