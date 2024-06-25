@@ -40,14 +40,17 @@ Cheetah Grid for [Vue.js].
 A various JavaScript utility library for performing arbitrary-precision arithmetics.
 
 ### @bignum/core
+
 <npm-info name="@bignum/core"></npm-info>
 Arbitrary-precision decimal arithmetic with BigInt.
 
 ### @bignum/template
+
 <npm-info name="@bignum/template"></npm-info>
 Write formulas with template literals.
 
 ### @bignum/template-light
+
 <npm-info name="@bignum/template-light"></npm-info>
 Write formulas with template literals. (**light version**)
 
