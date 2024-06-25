@@ -25,5 +25,6 @@ module.exports = {
     "vue/html-closing-bracket-newline": "off",
     "require-jsdoc": "off",
     "jsonc/indent": "off",
+    "n/no-unsupported-features/node-builtins": "off",
   },
 }
