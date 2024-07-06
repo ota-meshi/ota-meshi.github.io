@@ -151,7 +151,7 @@ A [TOML] parser that produces output [compatible with ESLint](https://eslint.org
 
 ## [eslint-online-playground](https://eslint-online-playground.netlify.app/) <Badge text="Owner"/>
 
-<gh-info repo="ota-meshi/eslint-online-playground"></gh-info>
+<gh-info repo="ota-meshi/eslint-online-playground" :releases="false"></gh-info>
 [ESLint] online playground.\
 This playground allows you to check the behavior in combination with the plugins.
 

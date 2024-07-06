@@ -54,6 +54,11 @@ Write formulas with template literals.
 <npm-info name="@bignum/template-light"></npm-info>
 Write formulas with template literals. (**light version**)
 
+## [shine-and-bright](https://github.com/ota-meshi/shine-and-bright) <Badge text="Owner"/>
+
+<gh-info repo="ota-meshi/shine-and-bright"></gh-info>
+Dark and Light Theme Switch CSS.
+
 ## [Select box filter](https://chrome.google.com/webstore/detail/select-box-filter/ohgdgoglcbcfofphmmnkkdbpffklhjgh) <Badge text="Owner"/>
 
 <ch-ex-info app-key="ohgdgoglcbcfofphmmnkkdbpffklhjgh"></ch-ex-info>
