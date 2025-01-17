@@ -135,6 +135,7 @@ Coding Standards for Enterprise.
 - [Svelte Japan Podcast 「eslint-plugin-svelte & Svelte 4」特別回](https://twitter.com/i/spaces/1vAGRAAwdRXKl?s=20)
 - [Vue Fes Japan 2023](https://vuefes.jp/2023/) > [eslint-plugin-vueの現状と今後](https://vuefes.jp/2023/sessions/ota-meshi) <small>[[Slide](https://ota-meshi.github.io/vue-fes-japan-2023-slide/)]</small>
 - [次世代 Web カンファレンス 2023](https://nextwebconf.connpass.com/event/300174/) > Tooling <small>[[YouTube(3:00:05)](https://www.youtube.com/watch?v=mVGz5-F7_hY&list=PLRW5DJ7mngHyG4ZWRjuvmZtu771d4K1uS&t=10805s)]</small>
+- [Vue Fes Japan 2024](https://vuefes.jp/2024/) > [次世代フロントエンドクロストーク](https://vuefes.jp/2024/#crosstalk)
 
 ## Awards
 
