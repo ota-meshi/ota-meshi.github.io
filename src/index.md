@@ -145,6 +145,7 @@ Coding Standards for Enterprise.
 - [ESLint Contributor Pool Program - November 2021](https://github.com/eslint/tsc-meetings/blob/main/notes/2021/2021-12-02.md#contributor-pool)
 - [Google Open Source Peer Bonus H1 2022](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html)
 - [ESLint Contributor Pool Program - April 2022](https://github.com/eslint/tsc-meetings/blob/main/notes/2022/2022-05-05.md#contributor-pool)
+- [GitHub Maintainer Month 2022](https://github.blog/open-source/maintainers/thank-you-to-our-maintainers/)
 - ESLint Contributor Pool Program - June 2023
 - ESLint Contributor Pool Program - July 2023
 - [Astro Ecosystem Fund](https://astro.build/blog/astro-ecosystem-fund/)
