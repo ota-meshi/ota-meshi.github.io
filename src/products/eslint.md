@@ -113,6 +113,12 @@ An experimental [ESLint] plugin that auto-fixes test cases defined in RuleTester
 <gh-info repo="ota-meshi/eslint-plugin-math"></gh-info>
 [ESLint] plugin related to Math object and Number.
 
+## [eslint-plugin-module-interop](https://github.com/ota-meshi/eslint-plugin-module-interop) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-module-interop" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-module-interop"></gh-info>
+[ESLint] plugin with rules for module interoperability.
+
 ## [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) <Badge text="CoMaintainer" type="warning"/>
 
 <npm-info name="vue-eslint-parser" node peer-eslint></npm-info>
