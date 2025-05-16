@@ -28,6 +28,12 @@ Cheetah Grid for [Vue.js].
 <gh-info repo="ota-meshi/svelte-adapter-ghpages"></gh-info>
 [SvelteKit] adapter for gh-pages.
 
+## [prettier-plugin-jsdoc-type](https://github.com/ota-meshi/prettier-plugin-jsdoc-type) <Badge text="Owner"/>
+
+<npm-info name="prettier-plugin-jsdoc-type"></npm-info>
+<gh-info repo="ota-meshi/prettier-plugin-jsdoc-type"></gh-info>
+Prettier plugin for formatting JSDoc type annotations.
+
 ## [vuepress-plugin-full-text-search2](https://github.com/ota-meshi/vuepress-plugin-full-text-search2) <Badge text="Owner"/>
 
 <npm-info name="vuepress-plugin-full-text-search2"></npm-info>
