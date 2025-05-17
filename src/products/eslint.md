@@ -119,6 +119,11 @@ An experimental [ESLint] plugin that auto-fixes test cases defined in RuleTester
 <gh-info repo="ota-meshi/eslint-plugin-module-interop"></gh-info>
 [ESLint] plugin with rules for module interoperability.
 
+## [ESLint Online Playground](https://eslint-online-playground.netlify.app/) <Badge text="Owner"/>
+
+<gh-info repo="ota-meshi/eslint-online-playground"></gh-info>
+(Unofficial) ESLint Online Playground where you can check the behavior in combination with the plugins.
+
 ## [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) <Badge text="CoMaintainer" type="warning"/>
 
 <npm-info name="vue-eslint-parser" node peer-eslint></npm-info>
