@@ -121,7 +121,7 @@ An experimental [ESLint] plugin that auto-fixes test cases defined in RuleTester
 
 ## [ESLint Online Playground](https://eslint-online-playground.netlify.app/) <Badge text="Owner"/>
 
-<gh-info repo="ota-meshi/eslint-online-playground"></gh-info>
+<gh-info repo="ota-meshi/eslint-online-playground" :releases="false"></gh-info>
 (Unofficial) ESLint Online Playground where you can check the behavior in combination with the plugins.
 
 ## [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) <Badge text="CoMaintainer" type="warning"/>
