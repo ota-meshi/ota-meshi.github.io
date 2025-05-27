@@ -119,11 +119,6 @@ An experimental [ESLint] plugin that auto-fixes test cases defined in RuleTester
 <gh-info repo="ota-meshi/eslint-plugin-module-interop"></gh-info>
 [ESLint] plugin with rules for module interoperability.
 
-## [ESLint Online Playground](https://eslint-online-playground.netlify.app/) <Badge text="Owner"/>
-
-<gh-info repo="ota-meshi/eslint-online-playground" :releases="false"></gh-info>
-(Unofficial) ESLint Online Playground where you can check the behavior in combination with the plugins.
-
 ## [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) <Badge text="CoMaintainer" type="warning"/>
 
 <npm-info name="vue-eslint-parser" node peer-eslint></npm-info>
@@ -160,11 +155,10 @@ A [YAML] parser that produces output [compatible with ESLint](https://eslint.org
 <gh-info repo="ota-meshi/toml-eslint-parser"></gh-info>
 A [TOML] parser that produces output [compatible with ESLint](https://eslint.org/docs/developer-guide/working-with-custom-parsers#all-nodes).
 
-## [eslint-online-playground](https://eslint-online-playground.netlify.app/) <Badge text="Owner"/>
+## [ESLint Online Playground](https://eslint-online-playground.netlify.app/) <Badge text="Owner"/>
 
 <gh-info repo="ota-meshi/eslint-online-playground" :releases="false"></gh-info>
-[ESLint] online playground.\
-This playground allows you to check the behavior in combination with the plugins.
+(Unofficial) ESLint Online Playground where you can check the behavior in combination with the plugins.
 
 [vue.js]: https://vuejs.org/
 [eslint]: https://eslint.org/
