@@ -154,6 +154,7 @@ Coding Standards for Enterprise.
 - ESLint Contributor Pool Program - June 2024
 - ESLint Contributor Pool Program - July 2024
 - ESLint Contributor Pool Program - October 2024
+- ESLint Contributor Pool Program - June 2025
 
 > - See the [maintainer's tweet](https://twitter.com/slicknet/status/1375198854098771971) for the ESLint Contributor Pool Program.
 
