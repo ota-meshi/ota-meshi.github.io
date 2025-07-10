@@ -146,15 +146,15 @@ Coding Standards for Enterprise.
 - [Google Open Source Peer Bonus H1 2022](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html)
 - [ESLint Contributor Pool Program - April 2022](https://github.com/eslint/tsc-meetings/blob/main/notes/2022/2022-05-05.md#contributor-pool)
 - [GitHub Maintainer Month 2022](https://github.blog/open-source/maintainers/thank-you-to-our-maintainers/)
-- ESLint Contributor Pool Program - June 2023
-- ESLint Contributor Pool Program - July 2023
+- [ESLint Contributor Pool Program - June 2023](https://github.com/eslint/tsc-meetings/blob/6eaa246e2994e49a1477bb85f132fab7511d59a2/notes/2023/2023-06-29-transcript.md#:~:text=mdjermanovic%3A%20I%20think-,ota%2Dmeshi,-as%20he%20also)
+- [ESLint Contributor Pool Program - July 2023](https://github.com/eslint/tsc-meetings/blob/main/notes/2023/2023-07-27-transcript.md#:~:text=Wow%20ota%2Dmeshi%20was%20busy)
 - [Astro Ecosystem Fund](https://astro.build/blog/astro-ecosystem-fund/)
-- ESLint Contributor Pool Program - March 2024
+- [ESLint Contributor Pool Program - March 2024](https://github.com/eslint/tsc-meetings/blob/main/notes/2024/2024-04-04.md#contributor-pool-for-march-2024)
 - [Anthony Fu Fund Redistribution, May 2024](https://opencollective.com/antfu/updates/anthony-fund-redistribution-may-2024)
-- ESLint Contributor Pool Program - June 2024
-- ESLint Contributor Pool Program - July 2024
-- ESLint Contributor Pool Program - October 2024
-- ESLint Contributor Pool Program - June 2025
+- [ESLint Contributor Pool Program - June 2024](https://github.com/eslint/tsc-meetings/blob/main/notes/2024/2024-07-11.md#contributor-pool-for-june-2024)
+- [ESLint Contributor Pool Program - July 2024](https://github.com/eslint/tsc-meetings/blob/main/notes/2024/2024-08-08.md#contributor-pool-for-july-2024)
+- [ESLint Contributor Pool Program - October 2024](https://github.com/eslint/tsc-meetings/blob/main/notes/2024/2024-10-31.md#contributor-pool-for-october-2024)
+- [ESLint Contributor Pool Program - June 2025](https://github.com/eslint/tsc-meetings/blob/main/notes/2025/2025-07-01-contributor-pool.md)
 
 > - See the [maintainer's tweet](https://twitter.com/slicknet/status/1375198854098771971) for the ESLint Contributor Pool Program.
 
