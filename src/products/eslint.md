@@ -119,6 +119,12 @@ An experimental [ESLint] plugin that auto-fixes test cases defined in RuleTester
 <gh-info repo="ota-meshi/eslint-plugin-module-interop"></gh-info>
 [ESLint] plugin with rules for module interoperability.
 
+## [eslint-plugin-markdown-preferences](https://github.com/ota-meshi/eslint-plugin-markdown-preferences) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-markdown-preferences" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-markdown-preferences"></gh-info>
+[ESLint] plugin that enforces our markdown preferences.
+
 ## [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) <Badge text="CoMaintainer" type="warning"/>
 
 <npm-info name="vue-eslint-parser" node peer-eslint></npm-info>
