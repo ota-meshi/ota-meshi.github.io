@@ -125,6 +125,12 @@ An experimental [ESLint] plugin that auto-fixes test cases defined in RuleTester
 <gh-info repo="ota-meshi/eslint-plugin-markdown-preferences"></gh-info>
 [ESLint] plugin that enforces our markdown preferences.
 
+## [eslint-plugin-markdown-links](https://github.com/ota-meshi/eslint-plugin-markdown-links) <Badge text="Owner"/>
+
+<npm-info name="eslint-plugin-markdown-links" node peer-eslint></npm-info>
+<gh-info repo="ota-meshi/eslint-plugin-markdown-links"></gh-info>
+[ESLint] plugin that checks links in Markdown
+
 ## [vue-eslint-parser](https://github.com/vuejs/vue-eslint-parser) <Badge text="CoMaintainer" type="warning"/>
 
 <npm-info name="vue-eslint-parser" node peer-eslint></npm-info>
