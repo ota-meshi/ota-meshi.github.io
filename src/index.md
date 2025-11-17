@@ -136,6 +136,7 @@ Coding Standards for Enterprise.
 - [Vue Fes Japan 2023](https://vuefes.jp/2023/) > [eslint-plugin-vueの現状と今後](https://vuefes.jp/2023/sessions/ota-meshi) <small>[[Slide](https://ota-meshi.github.io/vue-fes-japan-2023-slide/)]</small>
 - [次世代 Web カンファレンス 2023](https://nextwebconf.connpass.com/event/300174/) > Tooling <small>[[YouTube(3:00:05)](https://www.youtube.com/watch?v=mVGz5-F7_hY&list=PLRW5DJ7mngHyG4ZWRjuvmZtu771d4K1uS&t=10805s)]</small>
 - [Vue Fes Japan 2024](https://vuefes.jp/2024/) > [次世代フロントエンドクロストーク](https://vuefes.jp/2024/#crosstalk)
+- [JSConf JP 2025](https://jsconf.jp/2025/) > [JavaScript パーサーに using 対応をする過程で与えたエコシステムへの影響](https://jsconf.jp/2025/ja/talks/javascript-parser-using-support) <small>[[YouTube(5:15:20)](https://www.youtube.com/watch?v=m9K2WW0K8uc&t=5h15m20s)][[Slide](https://speakerdeck.com/baseballyama/javascript-pasani-using-dui-ying-wosuruguo-cheng-deyu-etaekosisutemuhenoying-xiang)]</small>
 
 ## Awards
 
